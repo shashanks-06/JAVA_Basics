@@ -13,7 +13,7 @@ public class Lab007 {
         System.out.println(isMarried);
         System.out.println(areYouADog);
 
-        // Numerical
+        // Numericals
         // integral - byte, short, int, long
 
         byte b =100;
