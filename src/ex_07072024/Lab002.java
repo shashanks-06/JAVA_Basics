@@ -5,7 +5,6 @@ public class Lab002 {
         // For Single Comment
 
         /*
-
         * For
         * Multiple
         * Line
