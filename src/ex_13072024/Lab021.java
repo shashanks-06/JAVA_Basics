@@ -6,9 +6,10 @@ public class Lab021 {
         int age_s = 23;
         int age_m = 23;
 
-//        boolean result = age_s > age_m;
-//        boolean result = age_s < age_m;
-        boolean result = age_s >= age_m; // OR Gate
+//        boolean result = age_s > age_m; // 23 > 23
+//        boolean result = age_s < age_m; // 23 < 23
+//        boolean result = age_s >= age_m; // OR Gate  // 23 > 23 OR 23 = 23
+        boolean result = age_s == age_m;  // == Compare true values
 
         System.out.println(result);
     }
