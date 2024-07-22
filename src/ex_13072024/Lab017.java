@@ -8,5 +8,7 @@ public class Lab017 {
 
         final String str = "yuastd";
         final double d = 378.155;
+//        d = 378.1556; // java: cannot assign a value to final variable A
+        System.out.println(d);
     }
 }
