@@ -5,7 +5,7 @@ public class Lab041 {
     boolean a = true;
     a =!a;
 
-    if(2+2 >= 4){
+    if(2+2 <= 4){
         System.out.println("Inside loop");
     }
         System.out.println("Outside loop and value of a is "+a);
