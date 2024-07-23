@@ -25,7 +25,6 @@ public class Lab042 {
         System.out.println("Enter a no. ");
         int userInput = cin.nextInt();
 
-        System.out.println(userInput);
 
         if(userInput % 2 == 0){
             System.out.println("EVEN");
