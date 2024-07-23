@@ -9,5 +9,6 @@ public class Lab041 {
         System.out.println("Inside loop");
     }
         System.out.println("Outside loop and value of a is "+a);
+    // Understanding with debug -> Checking code line by line
     }
 }
