@@ -27,10 +27,10 @@ public class Lab042 {
 
         System.out.println(userInput);
 
-        if(userInput % 2 != 0){
-            System.out.println("ODD");
-        }else {
+        if(userInput % 2 == 0){
             System.out.println("EVEN");
+        }else {
+            System.out.println("ODD");
         }
     }
 }
