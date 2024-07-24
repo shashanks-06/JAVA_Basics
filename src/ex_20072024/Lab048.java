@@ -28,5 +28,10 @@ public class Lab048 {
             default:
                 System.out.println("CONSONANT");
         }
+//        char input = 'i';
+//        switch (input){
+//            case 'a','e','i','o','u' -> System.out.println("Vowels");
+//            default -> System.out.println("Consonant");
+//        }
     }
 }

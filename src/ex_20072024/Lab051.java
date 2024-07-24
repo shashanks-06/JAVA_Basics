@@ -10,5 +10,7 @@ public class Lab051 {
             case 003,004 -> System.out.println("It is a mobile");
             default -> System.out.println("Not a Device");
         }
+
+
     }
 }
