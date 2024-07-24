@@ -52,6 +52,7 @@
     "Application.Lab044.executor": "Run",
     "Application.Lab045.executor": "Run",
     "Application.Lab046.executor": "Debug",
+    "Application.Lab047.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -176,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721798711776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721800431024</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721800431024</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

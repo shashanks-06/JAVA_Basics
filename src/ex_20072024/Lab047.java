@@ -22,13 +22,13 @@ public class Lab047 {
                 break;
             case "fireFox":
                 System.out.println("Starting the FireFox browser");
-                // Further code to start the Chrome
-                // Webdriver driver = new Chrome(); // Selenium Code
+                // Further code to start the FireFox
+                // Webdriver driver = new FireFox(); // Selenium Code
                 break;
             case "edge":
                 System.out.println("Starting the Edge browser");
-                // Further code to start the Chrome
-                // Webdriver driver = new Chrome(); // Selenium Code
+                // Further code to start the Edge
+                // Webdriver driver = new Edge(); // Selenium Code
                 break;
             default:
                 System.out.println("No idea which browser it is !!!");
