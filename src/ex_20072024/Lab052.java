@@ -8,7 +8,7 @@ public class Lab052 {
 
         int val = switch (code){
             case 'A':
-                yield  65;  // return
+                yield  65;  // return   // when using YIELD  dont have to use BREAK
             case 'B':
                 yield  66;
             default:
