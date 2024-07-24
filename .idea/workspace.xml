@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="20 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab047.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +51,15 @@
   "keyToString": {
     "Application.Lab044.executor": "Run",
     "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Debug",
+    "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TriangleClassifier">
+  <component name="RunManager" selected="Application.Lab047">
     <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab044" />
       <module name="JAVA_Basics" />
@@ -83,6 +86,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab046" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab047" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork.TriangleClassifier" />
       <module name="JAVA_Basics" />
@@ -98,6 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab047" />
+        <item itemvalue="Application.Lab046" />
         <item itemvalue="Application.TriangleClassifier" />
         <item itemvalue="Application.Lab045" />
         <item itemvalue="Application.Lab044" />
@@ -137,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721756898450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721798711776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721798711776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
