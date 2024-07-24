@@ -2,7 +2,7 @@ package HomeWork;
 
 import java.util.Scanner;
 
-public class TriangleClassifier {
+public class TriangleClassifier_20July24 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         System.out.println("Enter 3 sides of Triangle : ");

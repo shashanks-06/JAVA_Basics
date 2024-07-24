@@ -33,5 +33,13 @@ public class Lab048 {
 //            case 'a','e','i','o','u' -> System.out.println("Vowels");
 //            default -> System.out.println("Consonant");
 //        }
+
+//        char ch = 'a';
+//        if (ch == 'a' ||ch == 'e' ||ch == 'i' ||ch == 'o' ||ch == 'u'){
+//            System.out.println("Vowels");
+//        }else {
+//            System.out.println("Consonant");
+
+//        }
     }
 }
