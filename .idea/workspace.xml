@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="20 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab056.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +50,46 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FizzBuzz.executor": "Run",
+    "Application.LAb051.executor": "Run",
     "Application.Lab044.executor": "Run",
     "Application.Lab045.executor": "Run",
     "Application.Lab046.executor": "Debug",
     "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.LeapYear_20July24.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab047">
-    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab044" />
+  <component name="RunManager" selected="Application.Lab054">
+    <configuration name="FizzBuzz_20July24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.FizzBuzz_20July24" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab048" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab045" />
+    <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab054" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab046" />
+    <configuration name="Lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab055" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,21 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab047" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.TriangleClassifier" />
+    <configuration name="LeapYear_20July24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.LeapYear_20July24" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab047" />
-        <item itemvalue="Application.Lab046" />
-        <item itemvalue="Application.TriangleClassifier" />
-        <item itemvalue="Application.Lab045" />
-        <item itemvalue="Application.Lab044" />
+        <item itemvalue="Application.Lab054" />
+        <item itemvalue="Application.Lab055" />
+        <item itemvalue="Application.LeapYear_20July24" />
+        <item itemvalue="Application.FizzBuzz_20July24" />
+        <item itemvalue="Application.Lab048" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +199,87 @@
       <option name="project" value="LOCAL" />
       <updated>1721800431024</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721800543025</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721800543025</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721801014634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721801014634</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721805017608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721805017608</updated>
+    </task>
+    <task id="LOCAL-00009" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721805618607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721805618607</updated>
+    </task>
+    <task id="LOCAL-00010" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721806180644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721806180644</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721806773566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721806773566</updated>
+    </task>
+    <task id="LOCAL-00012" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721807184646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721807184646</updated>
+    </task>
+    <task id="LOCAL-00013" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721807207432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721807207432</updated>
+    </task>
+    <task id="LOCAL-00014" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721807321053</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721807321053</updated>
+    </task>
+    <task id="LOCAL-00015" summary="20 July 2024">
+      <option name="closed" value="true" />
+      <created>1721810358499</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721810358499</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
