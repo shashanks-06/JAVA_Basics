@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="21 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/_4_RightAngleStarPattern_21July24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab062.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/FizzBuzz_20July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/_1_FizzBuzz_20July24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/LeapYear_20July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/_2_LeapYear_20July24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/TriangleClassifier_20July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/_3_TriangleClassifier_20July24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,7 @@
     "Application.Lab059.executor": "Run",
     "Application.Lab060.executor": "Run",
     "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
@@ -82,35 +81,35 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._4_RightAngleStarPattern_21July24">
-    <configuration name="Lab058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab058" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab059" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab059" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab062">
     <configuration name="Lab060" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab060" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab061" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab062" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab062" />
+        <item itemvalue="Application.Lab061" />
         <item itemvalue="Application._4_RightAngleStarPattern_21July24" />
         <item itemvalue="Application._1_FizzBuzz_20July24" />
         <item itemvalue="Application.Lab060" />
-        <item itemvalue="Application.Lab059" />
-        <item itemvalue="Application.Lab058" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721904640697</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="21 July 2024">
+      <option name="closed" value="true" />
+      <created>1721906038465</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721906038465</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
