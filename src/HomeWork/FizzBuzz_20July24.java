@@ -7,26 +7,26 @@ import java.util.Scanner;
 
 public class FizzBuzz_20July24 {
     public static void main(String[] args) {
-//        Scanner cin = new Scanner(System.in);
-//        System.out.print("Enter a num : ");
-//        int num = cin.nextInt();
+        Scanner cin = new Scanner(System.in);
+        System.out.print("Enter a Max Number : ");
+        int maxN = cin.nextInt();
 //
-//        if(num % 3 == 0 && num % 5 == 0){
+//        if(maxN % 3 == 0 && maxN % 5 == 0){
 //            System.out.println("FizzBuzz");
-//        } else if (num % 5 == 0) {
+//        } else if (maxN % 5 == 0) {
 //            System.out.println("Buzz");
-//        } else if (num % 3 == 0) {
+//        } else if (maxN % 3 == 0) {
 //            System.out.println("Fizz");
 //        }
 
-        for (int num = 1; num <= 100; num++){
-            if(num % 3 == 0 && num % 5 == 0){
+        for (int num = 1; num <= maxN; num++){              // IMPORTANT TO REMEMBER
+            if(num % 3 == 0 && num % 5 == 0){ // 2          // MORE THE CONDITIONS FIRST THEY SHOULD APPEAR
             System.out.println("FizzBuzz");
-        } else if (num % 5 == 0) {
+        } else if (num % 5 == 0) {            // 1
             System.out.println("Buzz");
-        } else if (num % 3 == 0) {
+        } else if (num % 3 == 0) {            // 1
             System.out.println("Fizz");
-        }else {
+        }else {                               // 0
                 System.out.println(num);
             }
         }
