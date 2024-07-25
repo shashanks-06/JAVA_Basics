@@ -1,33 +1,20 @@
 package ex_21072024;
 
-import java.util.Scanner;
-
 public class Lab060 {
-
-    public static int factorial(int n){
-        int fact = 1;
-        for (int i = 1; i<=n;i++){
-            fact = fact*i;
-        }
-        return fact;
-    }
-
     public static void main(String[] args) {
-        Scanner std = new Scanner(System.in);
-        System.out.println("Enter your no. : ");
-        int num = std.nextInt();
-
-//        int d = num;
-//        int f = 1;
-//        while(d > 0){
-//            f = f*d;
-//            d--;
-//        }
-//        System.out.printf("Factorial of %d is %d", num,f);
+        int a =10;
+        // While -> int -> condition -> body -> increment / decrement
+        while(a<10){
+            System.out.println(a);      // -> NO OUTPUT
+            a++;
+        }
+        // Do While
+        // int -> body -> condition -> increment / decrement
 
 
-        System.out.printf("Factorial of %d = %d", num, factorial(num));
-
-        std.close();
+        do {                        // Do always Runs single time then it check for the condition
+            System.out.println(a);
+            a++;
+        }while (a<10);
     }
 }

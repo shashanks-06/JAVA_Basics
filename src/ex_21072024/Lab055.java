@@ -28,7 +28,7 @@ public class Lab055 {
 //            System.out.println("Hi, Byte -> "+i);
 //        }
 
-//        Numerical Primitive byte, char, short, int, long, float, double are supported
+//        Numerical Primitives -> byte, char, short, int, long, float, double are supported
 
         for(char ch = 'a'; ch <= 'z'; ch++){
             System.out.println(ch);

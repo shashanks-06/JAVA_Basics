@@ -34,13 +34,13 @@ public class Lab054 {
             System.out.println("Hi"+i);
         }
 
-        System.out.println("------------------------------------------------");
+        System.out.println("-------------------------------------------------");
 
         for (int i = 10; i > 0; i--) {
             System.out.println(i);
         }
 
-        System.out.println("------------------------------------------------");
+        System.out.println("-------------------------------------------------");
 
         int i = 10;
         for (; i > 0; i--) {
