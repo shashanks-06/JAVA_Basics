@@ -12,7 +12,7 @@ public class Lab061 {
         // int -> body -> condition -> increment / decrement
 
 
-        do {                        // Do always Runs one time then it check for the condition
+        do {                        // Do always Runs single time then it check for the condition
             System.out.println(a);
             a++;
         }while (a<10);

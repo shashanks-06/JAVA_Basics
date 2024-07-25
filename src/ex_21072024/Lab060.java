@@ -26,7 +26,7 @@ public class Lab060 {
 //        System.out.printf("Factorial of %d is %d", num,f);
 
 
-        System.out.printf("Factorial of %d is %d", num, factorial(num));
+        System.out.printf("Factorial of %d = %d", num, factorial(num));
 
         std.close();
     }
