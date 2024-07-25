@@ -2,7 +2,7 @@ package HomeWork;
 
 import java.util.Scanner;
 
-public class LeapYear_20July24 {
+public class _2_LeapYear_20July24 {
 
     public static boolean isLeapYear(int year){
         // A year is a leap year if it is divisible by 4 but not by 100,

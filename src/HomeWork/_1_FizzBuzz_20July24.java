@@ -5,7 +5,7 @@ package HomeWork;
 
 import java.util.Scanner;
 
-public class FizzBuzz_20July24 {
+public class _1_FizzBuzz_20July24 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         System.out.print("Enter a Max Number : ");
