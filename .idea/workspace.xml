@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="21 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab064.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="28 July 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab066.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "Application.Lab062.executor": "Run",
     "Application.Lab063.executor": "Run",
     "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
@@ -83,7 +84,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab064">
+  <component name="RunManager" selected="Application.Lab065">
     <configuration name="Lab061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab061" />
       <module name="JAVA_Basics" />
@@ -136,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4_RightAngleStarPattern_21July24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork._4_RightAngleStarPattern_21July24" />
+    <configuration name="Lab065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab065" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab065" />
         <item itemvalue="Application.Lab064" />
         <item itemvalue="Application.Lab063" />
         <item itemvalue="Application.Lab062" />
         <item itemvalue="Application.Lab061" />
-        <item itemvalue="Application._4_RightAngleStarPattern_21July24" />
       </list>
     </recent_temporary>
   </component>
@@ -368,13 +369,38 @@
       <option name="project" value="LOCAL" />
       <updated>1721908677234</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="21 July 2024">
+      <option name="closed" value="true" />
+      <created>1722164311554</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1722164311554</updated>
+    </task>
+    <task id="LOCAL-00027" summary="21 July 2024">
+      <option name="closed" value="true" />
+      <created>1722164326561</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1722164326561</updated>
+    </task>
+    <task id="LOCAL-00028" summary="28 July 2024">
+      <option name="closed" value="true" />
+      <created>1722164382388</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1722164382388</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20 July 2024" />
     <MESSAGE value="21 July 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="21 July 2024" />
+    <MESSAGE value="28 July 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 July 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
