@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class _5_SecondHighestSalaryInArray_27July24 {
     public static void main(String[] args) {
-        int[] salary = {12,34,17,3,54,36,24};
+        int[] salary = {7,10,4,13,25,18,9,8,17};
 
         for (int i = 0; i < salary.length; i++) {
             for (int j=0; j < salary.length; j++){
