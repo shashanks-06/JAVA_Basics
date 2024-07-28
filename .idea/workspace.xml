@@ -76,6 +76,7 @@
     "Application.Lab067.executor": "Run",
     "Application.Lab068.executor": "Run",
     "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
@@ -422,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722169275428</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="28 July 2024">
+      <option name="closed" value="true" />
+      <created>1722189102421</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1722189102421</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
