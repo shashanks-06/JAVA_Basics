@@ -26,7 +26,7 @@ public class Lab064 {
             System.out.println(i +" -> "+ marks[i]);
         }
 
-        String[] weekDays = {"Mon", "Tue", "Wed", "Thu"};
+        String[] weekDays = {"Mon", "Tue", "Wed", "Thu", "Fri"};
         for (int i = 0; i < weekDays.length; i++) {
             System.out.println(weekDays[i]);
         }
