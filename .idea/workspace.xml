@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="28 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Animal_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Bank_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/BuildingBP_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Dog_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab072.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab072.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab073.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab073.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab074.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab074.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Person_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722236696859</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="28 July 2024">
+      <option name="closed" value="true" />
+      <created>1722237307337</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1722237307337</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
