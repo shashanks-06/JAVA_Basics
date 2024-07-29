@@ -14,7 +14,7 @@ public class Lab064 {
 
         Scanner sc = new Scanner(System.in);
         marks[0] = sc.nextInt();
-        marks[1] = 94;
+        marks[1] = 99;
         marks[2] = 95;
         System.out.println(marks[1]);
         System.out.println(marks[2]);

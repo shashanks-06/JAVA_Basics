@@ -6,7 +6,7 @@ import java.util.Collections;
 public class Lab068 {
     public static void main(String[] args) {
         // Find Max Salary in an  array
-         int[] salary = {12,5,7,4,16,25,14,51};
+         int[] salary = {12,5,7,4,16,25,14,54};
         int max = salary[0];
         int min = salary[0];
         for (int i = 0; i < salary.length; i++) {

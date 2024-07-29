@@ -4,7 +4,7 @@ public class Lab071 {
     public static void main(String[] args) {
         // Strings - immutable in nature
         String s1 = "John";     // Both String will be present , only the references will change
-        s1 = "Doe";             // First "s1" ref to "John" , now to "Doe"
+        s1 = "Doer";             // First "s1" ref to "John" , now to "Doe"
 
         // StringBuilder , StringBuffer
         StringBuffer stringBuffer = new StringBuffer("John");

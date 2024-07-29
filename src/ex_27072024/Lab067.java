@@ -11,7 +11,7 @@ public class Lab067 {
         float[] marks = new float[5];
 
         for (int i = 0; i < marks.length; i++) {
-            System.out.print("Enter the mark of Subject - "+ (i+1));
+            System.out.print("Enter the mark of Subject -> "+ (i+1));
             marks[i] = sc.nextFloat();
         }
 

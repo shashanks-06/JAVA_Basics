@@ -13,7 +13,7 @@ public class Lab063 {
         // elements are fixed.
         // len -> 6
         System.out.println(marks.length);
-        System.out.println(marks[5]);
+        System.out.println(marks[4]);
         System.out.println(marks[0]);
 //        System.out.println(marks[-1]);  //ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 6
 //        System.out.println(marks[10]);  //ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 6
