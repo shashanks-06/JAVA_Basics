@@ -1,6 +1,6 @@
 package ex_28072024;
 
-public class Dog_3 {
+public class Dog {
     String name;
     String breed;
     String color;

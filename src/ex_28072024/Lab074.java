@@ -2,11 +2,11 @@ package ex_28072024;
 
 public class Lab074 {
     public static void main(String[] args) {
-        Dog_3 dog1Ref = new Dog_3();
+        Dog dog1Ref = new Dog();
         dog1Ref.name = "Sheru";
         dog1Ref.breed = "Labra";
 
-        Dog_3 dog2Ref = new Dog_3();
+        Dog dog2Ref = new Dog();
         dog2Ref.name = "Moti";
         dog2Ref.breed = "German Shepherd";
 

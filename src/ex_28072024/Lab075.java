@@ -3,8 +3,8 @@ package ex_28072024;
 public class Lab075 {
     public static void main(String[] args) {
 
-        Bank_5 bank1 = new Bank_5();
-        Bank_5 bank2 = new Bank_5();
+        Bank bank1 = new Bank();
+        Bank bank2 = new Bank();
 
         bank1.name = "SBI";
         System.out.println(bank1.name);         //SBI

@@ -1,6 +1,6 @@
 package ex_28072024;
 
-public class Person_1 {
+public class Person {
     // Attribute
 
     String name;

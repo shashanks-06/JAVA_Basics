@@ -10,12 +10,12 @@ public class Lab072 {
         // Behaviour / methods -> walk(), eat(), talk(), read(), sleep(), hear().
 
         //  Blueprint - Class - Person
-        Person_1 person = new Person_1();
+        Person person = new Person();
         // Real thing class -> Object
         person.name = "John Doe";
         person.rollNo = 1;
 
-        Person_1 person2 = new Person_1();
+        Person person2 = new Person();
         // Real thing class -> Object
         person2.name = "Clark Kent";
         person2.rollNo = 10;

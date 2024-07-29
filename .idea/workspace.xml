@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="28 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +90,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Lab075">
-    <configuration name="Animal_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal_4" />
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -455,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722236325618</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="28 July 2024">
+      <option name="closed" value="true" />
+      <created>1722236696859</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1722236696859</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

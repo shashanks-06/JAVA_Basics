@@ -1,6 +1,6 @@
 package ex_28072024;
 
-public class BuildingBP_2 {
+public class BuildingBP {
 
     // Attributes / Properties
     String name;

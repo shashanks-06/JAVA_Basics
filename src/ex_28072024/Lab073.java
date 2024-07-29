@@ -13,14 +13,14 @@ public class Lab073 {
         // classRef - Class Ref
         // ClassName = Class Name -> which is a blueprint you are using
 
-        BuildingBP_2 dlf = new BuildingBP_2();
+        BuildingBP dlf = new BuildingBP();
         dlf.name = "DLF Pvt Ltd";
         dlf.noOfFloors = 100;
 
         dlf.useLift();
         dlf.doActivities();
 
-        BuildingBP_2 prestige = new BuildingBP_2();
+        BuildingBP prestige = new BuildingBP();
         prestige.name = "Prestige Pvt Ltd";
         prestige.noOfFloors = 120;
 
