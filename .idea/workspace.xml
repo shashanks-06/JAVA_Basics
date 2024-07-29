@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="27 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Animal_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="28 July 2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +76,7 @@
     "Application.Lab068.executor": "Run",
     "Application.Lab070.executor": "Run",
     "Application.Lab071.executor": "Run",
+    "Application.Lab075.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
@@ -95,26 +90,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Animal_4">
+  <component name="RunManager" selected="Application.Lab075">
     <configuration name="Animal_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal_4" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_28072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab068" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024.Lab075" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_28072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_5_SecondHighestSalaryInArray_27July24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork._5_SecondHighestSalaryInArray_27July24" />
       <module name="JAVA_Basics" />
@@ -163,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab075" />
         <item itemvalue="Application.Animal_4" />
         <item itemvalue="Application.Lab071" />
         <item itemvalue="Application.Lab070" />
         <item itemvalue="Application._5_SecondHighestSalaryInArray_27July24" />
-        <item itemvalue="Application.Lab068" />
       </list>
     </recent_temporary>
   </component>
@@ -452,15 +447,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722232526455</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="28 July 2024">
+      <option name="closed" value="true" />
+      <created>1722236325618</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1722236325618</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20 July 2024" />
     <MESSAGE value="21 July 2024" />
-    <MESSAGE value="28 July 2024" />
     <MESSAGE value="27 July 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="27 July 2024" />
+    <MESSAGE value="28 July 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 July 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
