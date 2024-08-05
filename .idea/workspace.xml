@@ -5,17 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="28 July 2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/Lab077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/Lab078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Animal_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Bank_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/BuildingBP_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Dog_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab072.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab072.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab073.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab073.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab074.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab074.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Person_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/_1_FizzBuzz_20July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/HomeWork/_1_FizzBuzz_20July24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/_2_LeapYear_20July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/HomeWork/_2_LeapYear_20July24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/_3_TriangleClassifier_20July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/HomeWork/_3_TriangleClassifier_20July24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/_4_RightAngleStarPattern_21July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/HomeWork/_4_RightAngleStarPattern_21July24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/_5_SecondHighestSalaryInArray_27July24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/HomeWork/_5_SecondHighestSalaryInArray_27July24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_07072024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_07072024/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_07072024/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_07072024/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_07072024/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_07072024/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab017.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_13072024/Lab023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab025.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab025.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab026.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab027.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab028.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab029.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab029.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab030.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab030.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab031.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab032.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab034.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab034.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab035.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab036.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab038.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab038.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab039.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab040.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_14072024/Lab040.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab041.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab041.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab043.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab044.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab044.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab045.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab045.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab046.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab048.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab048.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab053.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_20072024/Lab053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab054.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab054.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab055.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab055.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab056.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab056.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab057.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab058.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab058.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab059.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab059.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab060.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab060.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab061.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab061.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024/Lab062.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_21072024/Lab062.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab063.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab063.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab064.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab064.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab065.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab065.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab066.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab066.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab067.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab067.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab069.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab069.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab070.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab070.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27072024/Lab071.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_27072024/Lab071.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/BuildingBP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab072.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Lab072.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab073.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Lab073.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab074.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Lab074.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab075.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Lab075.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Lab076.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Lab076.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28072024/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JULY/ex_28072024/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +167,9 @@
     "Application.Lab070.executor": "Run",
     "Application.Lab071.executor": "Run",
     "Application.Lab075.executor": "Run",
+    "Application.Lab077.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
+    "Application.Practice.executor": "Debug",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
     "Application._5_SecondHighestSalaryInArray_27July24.executor": "Run",
@@ -99,26 +182,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab075">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_28072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab077">
     <configuration name="Lab070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab070" />
+      <option name="MAIN_CLASS_NAME" value="JULY.ex_27072024.Lab070" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27072024.*" />
+          <option name="PATTERN" value="JULY.ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +197,11 @@
       </method>
     </configuration>
     <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab071" />
+      <option name="MAIN_CLASS_NAME" value="JULY.ex_27072024.Lab071" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27072024.*" />
+          <option name="PATTERN" value="JULY.ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +210,11 @@
       </method>
     </configuration>
     <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024.Lab075" />
+      <option name="MAIN_CLASS_NAME" value="JULY.ex_28072024.Lab075" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28072024.*" />
+          <option name="PATTERN" value="JULY.ex_28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,26 +222,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5_SecondHighestSalaryInArray_27July24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork._5_SecondHighestSalaryInArray_27July24" />
+    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_04082024.Lab077" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="AUGUST.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="JAVA_Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab077" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Lab075" />
-        <item itemvalue="Application.Animal_4" />
         <item itemvalue="Application.Lab071" />
         <item itemvalue="Application.Lab070" />
-        <item itemvalue="Application._5_SecondHighestSalaryInArray_27July24" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722237307337</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="28 July 2024">
+      <option name="closed" value="true" />
+      <created>1722237613022</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1722237613022</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -494,13 +579,28 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ex_21072024/Lab059.java</url>
+          <url>file://$PROJECT_DIR$/src/JULY/ex_21072024/Lab059.java</url>
           <line>6</line>
           <properties class="ex_21072024.Lab059" method="factorial">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
