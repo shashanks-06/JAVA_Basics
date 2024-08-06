@@ -2,8 +2,12 @@ package AUGUST.ex_04082024.singleInhertence.realExample;
 
 public class TestCase2  extends BaseTest{
     void testCase2(){
+
         startBrowser();
+//        new BaseTest().startBrowser();       -> Without "extends" keyword we have to use like this
+
         System.out.println(gold);           // MultiLevel Inheritance
+
         /*
          *   here will be
          *   the no. of
@@ -12,7 +16,9 @@ public class TestCase2  extends BaseTest{
          *   -----
          *   -----
          */
+
         closeBrowser();
+//        new BaseTest().closeBrowser();       -> Without "extends" keyword we have to use like this
 
     }
 }
