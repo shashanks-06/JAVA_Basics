@@ -3,6 +3,7 @@ package AUGUST.ex_04082024.singleInhertence.realExample;
 public class TestCase2  extends BaseTest{
     void testCase2(){
         startBrowser();
+        System.out.println(gold);           // MultiLevel Inheritance
         /*
          *   here will be
          *   the no. of
