@@ -2,7 +2,7 @@ package AUGUST.ex_04082024.hasA.ex;
 
 public class Car {
 
-    // Aggregation - hasA
+    // Aggregation - hasA Relation
 
     protected void  startTheCar(){
         new Engine().start();
