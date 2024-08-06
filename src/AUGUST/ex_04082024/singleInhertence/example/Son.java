@@ -1,4 +1,4 @@
-package AUGUST.ex_04082024.singleInhertence;
+package AUGUST.ex_04082024.singleInhertence.example;
 
 public class Son extends Father{
     void bhk3(){
