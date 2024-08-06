@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="4 August 2024">
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/hasA/ex/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/hasA/ex/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/hasA/ex/Tyres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/hasA/isA/Tesla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="4 August 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -566,7 +560,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722923700370</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="4 August 2024">
+      <option name="closed" value="true" />
+      <created>1722924909243</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1722924909243</updated>
+    </task>
+    <task id="LOCAL-00049" summary="4 August 2024">
+      <option name="closed" value="true" />
+      <created>1722925086393</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1722925086393</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
