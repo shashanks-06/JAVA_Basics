@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="4 August 2024">
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/accessModifiers/criminal/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/accessModifiers/police/Cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/accessModifiers/police/JrCop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUGUST/ex_04082024/singleInhertence/example/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/singleInhertence/example/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUGUST/ex_04082024/singleInhertence/example/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/singleInhertence/example/Son.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
     "Application.Array2.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.FizzBuzz_20July24.executor": "Run",
+    "Application.JrCop.executor": "Run",
     "Application.LAb051.executor": "Run",
     "Application.Lab044.executor": "Run",
     "Application.Lab045.executor": "Run",
@@ -189,14 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00002" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721756600927</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1721756600927</updated>
     </task>
     <task id="LOCAL-00003" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -582,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722925428022</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="4 August 2024">
+      <option name="closed" value="true" />
+      <created>1722927056905</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1722927056905</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
