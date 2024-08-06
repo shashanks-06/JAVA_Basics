@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="4 August 2024" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="4 August 2024">
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/accessModifiers/criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/accessModifiers/police/Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_04082024/accessModifiers/police/JrCop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +91,7 @@
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.Practice.executor": "Debug",
+    "Application.Thief.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
     "Application._5_SecondHighestSalaryInArray_27July24.executor": "Run",
@@ -99,26 +105,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab086">
-    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Array1" />
+  <component name="RunManager" selected="Application.JrCop">
+    <configuration name="JrCop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_04082024.accessModifiers.police.JrCop" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Array2" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="AUGUST.ex_04082024.accessModifiers.police.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,13 +158,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_04082024.accessModifiers.criminal.Thief" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AUGUST.ex_04082024.accessModifiers.criminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JrCop" />
+        <item itemvalue="Application.Thief" />
         <item itemvalue="Application.Lab086" />
         <item itemvalue="Application.Lab085" />
         <item itemvalue="Application.Lab084" />
-        <item itemvalue="Application.Array1" />
-        <item itemvalue="Application.Array2" />
       </list>
     </recent_temporary>
   </component>
@@ -183,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00001" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721738259326</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1721738259326</updated>
     </task>
     <task id="LOCAL-00002" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -576,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722925086393</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="4 August 2024">
+      <option name="closed" value="true" />
+      <created>1722925428022</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1722925428022</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
