@@ -6,7 +6,7 @@ public class Star4 {
             for (int j = 1; j <= 5 ; j++) {
                 if (i==j || i==5 || j==1){
                     System.out.print(" * ");
-                } else if ((i==4 && (j==2 || j==3)) || (j==2) && (i==3 || i==4)) {
+                } else if ((i==4 && (j==2 || j==3)) || j==2 && i==3) {
                     System.out.print(" * ");
                 }else {
                     System.out.print(" * ");

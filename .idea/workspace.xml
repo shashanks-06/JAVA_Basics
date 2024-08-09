@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="2D Array with forEach">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Star6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Star1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Star1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Star3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Star3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Star4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Star4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +113,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Star6">
+  <component name="RunManager" selected="Application.Star4">
     <configuration name="Star2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Star2" />
       <module name="JAVA_Basics" />
@@ -179,9 +181,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star4" />
         <item itemvalue="Application.Star6" />
         <item itemvalue="Application.Star5" />
-        <item itemvalue="Application.Star4" />
         <item itemvalue="Application.Star3" />
         <item itemvalue="Application.Star2" />
       </list>
@@ -195,14 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00006" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721800543025</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1721800543025</updated>
     </task>
     <task id="LOCAL-00007" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -588,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723215161200</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="2D Array with forEach">
+      <option name="closed" value="true" />
+      <created>1723215728595</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215728595</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

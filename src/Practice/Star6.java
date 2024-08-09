@@ -7,7 +7,7 @@ public class Star6 {
                 if (i == 1 || j == 1 || i+j == 5 || i+j == 6 || i+j == 4){
                     System.out.print(" * ");
                 }
-//                else if (i==2 && j == 2) {            // -> i+j == 4
+//                else if (i==2 && j == 2) {             -->  i+j == 4
 //                    System.out.print(" * ");
 //                }
                 else {
