@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Star Patterns">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Star7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Star8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Star10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +92,7 @@
     "Application.MultidimensionalArray.executor": "Run",
     "Application.Practice.executor": "Debug",
     "Application.Star1.executor": "Run",
+    "Application.Star10.executor": "Run",
     "Application.Star2.executor": "Run",
     "Application.Star3.executor": "Run",
     "Application.Star4.executor": "Run",
@@ -114,7 +114,20 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Star8">
+  <component name="RunManager" selected="Application.Star10">
+    <configuration name="Star10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Star10" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Star3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Star3" />
       <module name="JAVA_Basics" />
@@ -130,19 +143,6 @@
     </configuration>
     <configuration name="Star4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Star4" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Star6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Star6" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star10" />
         <item itemvalue="Application.Star8" />
         <item itemvalue="Application.Star3" />
         <item itemvalue="Application.Star7" />
         <item itemvalue="Application.Star4" />
-        <item itemvalue="Application.Star6" />
       </list>
     </recent_temporary>
   </component>
@@ -198,14 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00008" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721805017608</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1721805017608</updated>
     </task>
     <task id="LOCAL-00009" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -591,7 +583,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723216274340</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Star Patterns">
+      <option name="closed" value="true" />
+      <created>1723219355077</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1723219355077</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
