@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.polymorphism.methodoverriding;
+package AUGUST.ex_11082024.polymorphism.methodOverriding;
 
 public class Shepherd extends Dog{
     @Override                   // IMP as it is overriding the parents method

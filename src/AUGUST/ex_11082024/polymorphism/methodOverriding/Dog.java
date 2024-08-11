@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.polymorphism.methodoverriding;
+package AUGUST.ex_11082024.polymorphism.methodOverriding;
 
 public class Dog {
     void bark(){
