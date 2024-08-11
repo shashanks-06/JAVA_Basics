@@ -1,11 +1,11 @@
-package AUGUST.ex_11082024.polymorphism;
+package AUGUST.ex_11082024.polymorphism.methodoverloading;
 
 public class Lab091 {
 // # Polymorphism  -->  COMPILE TIME (EARLY BINDING ) || STATIC POLYMORPHISM  || METHOD OVERLOADING
 //                                                                                          |
     //                                                        ONE OR MORE METHODS WITH SAME NAME BUT DIFFERENT ARGUMENTS
 //  RETURN TYPE DOESN'T AFFECT THE OVERLOADING
-// SAME METHOD NAME but DIFFERENT PARAMETER DATATYPE
+// SAME METHOD NAME but DIFFERENT PARAMETER
 
     public static void main(String[] args) {
     MathsOperation mathsOperation = new MathsOperation();

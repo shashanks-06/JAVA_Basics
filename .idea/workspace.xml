@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="10th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/Lab091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/MathsOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/methodoverriding/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/methodoverriding/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/methodoverriding/Shepherd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/Lab091.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/methodoverloading/Lab091.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/MathsOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/methodoverloading/MathsOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +95,7 @@
     "Application.Lab089.executor": "Run",
     "Application.Lab090.executor": "Run",
     "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
@@ -119,7 +123,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab091">
+  <component name="RunManager" selected="Application.Lab092">
     <configuration name="Lab088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.encapsulation.Lab088" />
       <module name="JAVA_Basics" />
@@ -160,11 +164,11 @@
       </method>
     </configuration>
     <configuration name="Lab091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.polymorphism.Lab091" />
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.polymorphism.methodoverloading.Lab091" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AUGUST.ex_11082024.polymorphism.*" />
+          <option name="PATTERN" value="AUGUST.ex_11082024.polymorphism.methodoverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Star10" />
+    <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.polymorphism.methodoverriding.Lab092" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="AUGUST.ex_11082024.polymorphism.methodoverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab092" />
         <item itemvalue="Application.Lab091" />
         <item itemvalue="Application.Lab090" />
         <item itemvalue="Application.Lab089" />
         <item itemvalue="Application.Lab088" />
-        <item itemvalue="Application.Star10" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00012" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721807184646</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1721807184646</updated>
     </task>
     <task id="LOCAL-00013" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -596,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723365001438</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="10th August 2024">
+      <option name="closed" value="true" />
+      <created>1723381822832</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1723381822832</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
