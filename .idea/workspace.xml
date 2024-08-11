@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="10th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/superthisKeyword/Lab094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/superthisKeyword/Lab095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/RealTimeInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,14 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00016" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721892685993</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1721892685993</updated>
     </task>
     <task id="LOCAL-00017" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -600,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723387517886</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="10th August 2024">
+      <option name="closed" value="true" />
+      <created>1723388656937</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1723388656937</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
