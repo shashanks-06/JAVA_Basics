@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Star Patterns">
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/Axis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/Lab089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/Lab090.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="10th August 2024">
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AUGUST/ex_11082024/polymorphism/MathsOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +91,7 @@
     "Application.Lab088.executor": "Run",
     "Application.Lab089.executor": "Run",
     "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
@@ -120,13 +119,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab090">
+  <component name="RunManager" selected="Application.Lab091">
     <configuration name="Lab088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.Lab088" />
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.encapsulation.Lab088" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AUGUST.ex_11082024.*" />
+          <option name="PATTERN" value="AUGUST.ex_11082024.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Lab089" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.Lab089" />
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.encapsulation.Lab089" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AUGUST.ex_11082024.*" />
+          <option name="PATTERN" value="AUGUST.ex_11082024.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,24 @@
       </method>
     </configuration>
     <configuration name="Lab090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.Lab090" />
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.encapsulation.Lab090" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AUGUST.ex_11082024.*" />
+          <option name="PATTERN" value="AUGUST.ex_11082024.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.polymorphism.Lab091" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AUGUST.ex_11082024.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,26 +185,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Star8" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab091" />
         <item itemvalue="Application.Lab090" />
         <item itemvalue="Application.Lab089" />
         <item itemvalue="Application.Lab088" />
         <item itemvalue="Application.Star10" />
-        <item itemvalue="Application.Star8" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00011" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721806773566</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1721806773566</updated>
     </task>
     <task id="LOCAL-00012" summary="20 July 2024">
       <option name="closed" value="true" />
@@ -597,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723357402628</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="10th August 2024">
+      <option name="closed" value="true" />
+      <created>1723365001438</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1723365001438</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -608,7 +607,8 @@
     <MESSAGE value="4 August 2024" />
     <MESSAGE value="2D Array with forEach" />
     <MESSAGE value="Star Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Star Patterns" />
+    <MESSAGE value="10th August 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="10th August 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
