@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="10th August 2024">
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="11th August 2024">
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exCar/GearBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exCar/GearBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Keys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Keys.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,97 +51,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Animal_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz_20July24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JrCop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LAb051.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab050.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab051.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab052.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab053.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab057.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab058.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab059.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab060.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab061.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab062.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab063.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab065.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab067.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab068.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab071.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab075.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab077.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab079.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab081.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab082.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab083.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab085.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab086.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab088.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab089.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab090.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab091.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab092.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab093 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab093 (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab093.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab096.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LabSingleInhertence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear_20July24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultidimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Star1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Star8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thief.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4_RightAngleStarPattern_21July24.executor&quot;: &quot;Run&quot;,
-    &quot;Application._5_SecondHighestSalaryInArray_27July24.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Animal_4.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.FizzBuzz_20July24.executor": "Run",
+    "Application.JrCop.executor": "Run",
+    "Application.LAb051.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Debug",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab077.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab088.executor": "Run",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093 (1).executor": "Debug",
+    "Application.Lab093 (2).executor": "Debug",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.LabSingleInhertence.executor": "Run",
+    "Application.LeapYear_20July24.executor": "Run",
+    "Application.MultidimensionalArray.executor": "Run",
+    "Application.Practice.executor": "Debug",
+    "Application.Star1.executor": "Run",
+    "Application.Star10.executor": "Run",
+    "Application.Star2.executor": "Run",
+    "Application.Star3.executor": "Run",
+    "Application.Star4.executor": "Run",
+    "Application.Star5.executor": "Run",
+    "Application.Star6.executor": "Run",
+    "Application.Star7.executor": "Run",
+    "Application.Star8.executor": "Run",
+    "Application.Thief.executor": "Run",
+    "Application.TriangleClassifier.executor": "Run",
+    "Application._4_RightAngleStarPattern_21July24.executor": "Run",
+    "Application._5_SecondHighestSalaryInArray_27July24.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab096">
-    <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_10082024.polymorphism.methodOverriding.Lab092" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_10082024.polymorphism.methodOverriding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Lab097">
     <configuration name="Lab093 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.superthisKeyword.Lab093" />
       <module name="JAVA_Basics" />
@@ -214,13 +209,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_11082024.exLoan.Lab097" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_11082024.exLoan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab097" />
         <item itemvalue="Application.Lab096" />
         <item itemvalue="Application.Lab093 (2)" />
         <item itemvalue="Application.Lab093 (1)" />
         <item itemvalue="Application.Lab093" />
-        <item itemvalue="Application.Lab092" />
       </list>
     </recent_temporary>
   </component>
@@ -232,30 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00018" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721894143138</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1721894143138</updated>
-    </task>
-    <task id="LOCAL-00019" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721903766165</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1721903766165</updated>
-    </task>
-    <task id="LOCAL-00020" summary="20 July 2024">
-      <option name="closed" value="true" />
-      <created>1721903829593</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1721903829593</updated>
     </task>
     <task id="LOCAL-00021" summary="21 July 2024">
       <option name="closed" value="true" />
@@ -625,7 +609,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723391597805</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="10th August 2024">
+      <option name="closed" value="true" />
+      <created>1723462534939</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1723462534939</updated>
+    </task>
+    <task id="LOCAL-00068" summary="10th August 2024">
+      <option name="closed" value="true" />
+      <created>1723462713087</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1723462713087</updated>
+    </task>
+    <task id="LOCAL-00069" summary="11th August 2024">
+      <option name="closed" value="true" />
+      <created>1723462804123</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1723462804123</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -637,7 +645,8 @@
     <MESSAGE value="2D Array with forEach" />
     <MESSAGE value="Star Patterns" />
     <MESSAGE value="10th August 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="10th August 2024" />
+    <MESSAGE value="11th August 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th August 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

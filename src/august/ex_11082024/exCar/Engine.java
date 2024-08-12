@@ -7,4 +7,11 @@ abstract class Engine extends GearBox {
     abstract void stop();
     abstract void speed();
 
+// These are all incomplete methods and hidden from the class Tesla, I10, WagonR
+
+    // Meaning of empty means -->
+    // abstract void someMethodName{
+    // ----------
+    // ----------
+    // }
 }
