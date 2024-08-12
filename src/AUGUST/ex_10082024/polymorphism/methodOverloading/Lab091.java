@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.polymorphism.methodOverloading;
+package AUGUST.ex_10082024.polymorphism.methodOverloading;
 
 public class Lab091 {
 // # Polymorphism  -->  COMPILE TIME (EARLY BINDING ) || STATIC POLYMORPHISM  || METHOD OVERLOADING

@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024;
+package AUGUST.ex_10082024;
 
 public class RealTimeInheritance {
     public static void main(String[] args) {

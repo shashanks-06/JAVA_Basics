@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.encapsulation;
+package AUGUST.ex_10082024.encapsulation;
 
 public class Lab090 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.superthisKeyword;
+package AUGUST.ex_10082024.superthisKeyword;
 
 public class Lab095 {
 

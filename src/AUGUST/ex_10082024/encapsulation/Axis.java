@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.encapsulation;
+package AUGUST.ex_10082024.encapsulation;
 
 //## Encapsulation
 //- Encapsulation is a fundamental concept in object-oriented programming (OOP).

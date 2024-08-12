@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.polymorphism.methodOverloading;
+package AUGUST.ex_10082024.polymorphism.methodOverloading;
 
 public class MathsOperation {
     // Encapsulation

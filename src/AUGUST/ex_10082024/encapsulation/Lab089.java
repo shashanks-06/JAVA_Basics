@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.encapsulation;
+package AUGUST.ex_10082024.encapsulation;
 
 //## FIXED ENCAPSULATION
 public class Lab089 {

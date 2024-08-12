@@ -1,4 +1,4 @@
-package AUGUST.ex_11082024.polymorphism.methodOverriding;
+package AUGUST.ex_10082024.polymorphism.methodOverriding;
 
 public class Lab092 {
     // # Polymorphism  -->  RUN TIME (EARLY BINDING ) || DYNAMIC POLYMORPHISM  || METHOD OVERRIDING
