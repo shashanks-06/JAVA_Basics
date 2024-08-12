@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="11th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/FireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/GrandBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/Lab098.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exCar/GearBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exCar/GearBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Keys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exCar/Keys.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +101,7 @@
     "Application.Lab093.executor": "Run",
     "Application.Lab096.executor": "Run",
     "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
@@ -115,6 +115,7 @@
     "Application.Star6.executor": "Run",
     "Application.Star7.executor": "Run",
     "Application.Star8.executor": "Run",
+    "Application.StringMethod.executor": "Run",
     "Application.Thief.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application._4_RightAngleStarPattern_21July24.executor": "Run",
@@ -130,52 +131,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab097">
-    <configuration name="Lab093 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.superthisKeyword.Lab093" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AUGUST.ex_11082024.superthisKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab098">
     <configuration name="Lab093 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AUGUST.ex_11082024.superthisKeyword.Lab093" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AUGUST.ex_11082024.superthisKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_10082024.superthisKeyword.Lab093" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_10082024.superthisKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AUGUST.ex_10082024.superthisKeyword.Lab093" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AUGUST.ex_10082024.superthisKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,13 +184,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_11082024.exRealLife.Lab098" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_11082024.exRealLife.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.StringMethod" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab098" />
+        <item itemvalue="Application.StringMethod" />
         <item itemvalue="Application.Lab097" />
         <item itemvalue="Application.Lab096" />
         <item itemvalue="Application.Lab093 (2)" />
-        <item itemvalue="Application.Lab093 (1)" />
-        <item itemvalue="Application.Lab093" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00021" summary="21 July 2024">
-      <option name="closed" value="true" />
-      <created>1721903980024</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1721903980024</updated>
     </task>
     <task id="LOCAL-00022" summary="21 July 2024">
       <option name="closed" value="true" />
@@ -633,7 +613,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723462804123</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="11th August 2024">
+      <option name="closed" value="true" />
+      <created>1723465025794</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1723465025794</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
