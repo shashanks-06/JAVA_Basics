@@ -4,17 +4,17 @@ public class FireFox extends BaseClass{
     @Override
     String openBrowser(String browser) {
         System.out.println("Opening the FireFox....,         // This Code is related to FireFox only\n");
-        return "";
+        return "Ok Opening the FireFox\n";
     }
 
     @Override
     String closeBrowser(String browser) {
         System.out.println("Closing the FireFox....,         // This Code is related to FireFox only\n");
-        return "";
+        return "Ok Closing the FireFox\n";
     }
 
     @Override
     void takeScreenShot() {
-        System.out.println("Taking SS by FireFox");
+        System.out.println("Taking SS by FireFox\n");
     }
 }

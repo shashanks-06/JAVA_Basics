@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="11th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/FireFox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/GrandBaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/Lab098.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/Chrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/FireFox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/exRealLife/FireFox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,14 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00022" summary="21 July 2024">
-      <option name="closed" value="true" />
-      <created>1721904099784</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1721904099784</updated>
     </task>
     <task id="LOCAL-00023" summary="21 July 2024">
       <option name="closed" value="true" />
@@ -621,7 +610,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723465025794</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="11th August 2024">
+      <option name="closed" value="true" />
+      <created>1723482733042</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1723482733042</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
