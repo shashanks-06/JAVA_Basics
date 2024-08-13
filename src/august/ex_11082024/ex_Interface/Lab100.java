@@ -1,6 +1,10 @@
 package august.ex_11082024.ex_Interface;
 
 public class Lab100 {
+    // interface to interface EXTENDS
+    // class to class EXTENDS
+    // class to interface IMPLEMENTS
+
     public static void main(String[] args) {
 //        I i = new I();  // interface and abstract cant be initiated
     }
