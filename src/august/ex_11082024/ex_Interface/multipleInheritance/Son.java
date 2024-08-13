@@ -11,6 +11,16 @@ public class Son implements Father, Mother{
     }
 
     @Override
+    public void loan(String a, String b) {
+        System.out.println("String a, String b");
+    }
+
+    @Override
+    public void loan(String c) {
+        System.out.println("String c");
+    }
+
+    @Override
     public void home() {
 
     }
