@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="11th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/ex2/CarC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/ex2/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/ex3/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/staticKeyword/Lab102.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/multipleInheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/multipleInheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/multipleInheritance/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/multipleInheritance/Mother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/multipleInheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/multipleInheritance/Son.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +100,7 @@
     "Application.Lab097.executor": "Run",
     "Application.Lab098.executor": "Run",
     "Application.Lab099.executor": "Run",
+    "Application.Lab102.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
@@ -134,20 +130,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab099">
-    <configuration name="Lab096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_11082024.exCar.Lab096" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_11082024.exCar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab102">
     <configuration name="Lab097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="august.ex_11082024.exLoan.Lab097" />
       <module name="JAVA_Basics" />
@@ -187,6 +170,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_11082024.staticKeyword.Lab102" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_11082024.staticKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.StringMethod" />
       <module name="JAVA_Basics" />
@@ -202,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab102" />
         <item itemvalue="Application.Lab099" />
         <item itemvalue="Application.Lab098" />
         <item itemvalue="Application.StringMethod" />
         <item itemvalue="Application.Lab097" />
-        <item itemvalue="Application.Lab096" />
       </list>
     </recent_temporary>
   </component>
@@ -218,14 +214,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00026" summary="21 July 2024">
-      <option name="closed" value="true" />
-      <created>1722164311554</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1722164311554</updated>
     </task>
     <task id="LOCAL-00027" summary="21 July 2024">
       <option name="closed" value="true" />
@@ -611,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723532298354</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="11th August 2024">
+      <option name="closed" value="true" />
+      <created>1723535066434</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1723535066434</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
