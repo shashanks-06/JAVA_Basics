@@ -32,8 +32,8 @@ class Car extends Vehicle{
     }
 
     public void display(){
-        System.out.println("Car speed is -> " +this.maxSpeed);
-        System.out.println("Vehicle Speed is -> " +super.maxSpeed);
+        System.out.println("Car speed is -> " +this.maxSpeed);      // 280
+        System.out.println("Vehicle Speed is -> " +super.maxSpeed); // 180
         super.message();            // Accessing Vehicle Class
         this.message();             // Accessing Car Class
     }
