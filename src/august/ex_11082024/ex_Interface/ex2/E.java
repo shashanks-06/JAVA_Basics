@@ -12,7 +12,7 @@ public interface E {
         System.out.println("Halt the Engine");     // Complete Method
     }
 
-    static void M1(){                           // Must have to use "default" or "static" keyword in interface
+    static void M1(){                  // Must have to use "default" or "static" keyword in interface
         System.out.println("M1");
     }
 
