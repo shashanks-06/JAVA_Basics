@@ -1,4 +1,4 @@
-package august.ex_17082024;
+package august.ex_17082024.nestedClasses;
 
 // Inner Classes are basically created to hide the functionality
 // Its not used in the API or Web Automation

@@ -1,4 +1,4 @@
-package august.ex_17082024;
+package august.ex_17082024.nestedClasses;
 
 public class Lab108 {
 }

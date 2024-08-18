@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="17th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/Lab108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/Lab109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/Lab110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/enums/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/enums/BUG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/enums/COLORS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/enums/Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/enums/PAGES.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/ex2/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_Interface/ex2/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/wrapperClasses/Lab103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/wrapperClasses/Lab104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/wrapperClasses/Lab105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/iibAndSib/Lab106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/iibAndSib/Lab107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/nestedClasses/Lab108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/nestedClasses/Lab109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_17082024/Lab110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_17082024/anonymousClasses/Lab110.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +30,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -109,6 +119,7 @@
     "Application.Lab106.executor": "Run",
     "Application.Lab107.executor": "Run",
     "Application.Lab109.executor": "Run",
+    "Application.Lab111.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
@@ -138,26 +149,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab109">
-    <configuration name="Lab104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.Lab104" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_17082024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab111">
     <configuration name="Lab105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.Lab105" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.wrapperClasses.Lab105" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_17082024.*" />
+          <option name="PATTERN" value="august.ex_17082024.wrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +164,11 @@
       </method>
     </configuration>
     <configuration name="Lab106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.Lab106" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.iibAndSib.Lab106" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_17082024.*" />
+          <option name="PATTERN" value="august.ex_17082024.wrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +177,11 @@
       </method>
     </configuration>
     <configuration name="Lab107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.Lab107" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.iibAndSib.Lab107" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_17082024.*" />
+          <option name="PATTERN" value="august.ex_17082024.wrapperClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +190,24 @@
       </method>
     </configuration>
     <configuration name="Lab109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.Lab109" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.nestedClasses.Lab109" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_17082024.*" />
+          <option name="PATTERN" value="august.ex_17082024.wrapperClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.enums.Lab111" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_17082024.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab111" />
         <item itemvalue="Application.Lab109" />
         <item itemvalue="Application.Lab107" />
         <item itemvalue="Application.Lab106" />
         <item itemvalue="Application.Lab105" />
-        <item itemvalue="Application.Lab104" />
       </list>
     </recent_temporary>
   </component>
@@ -222,14 +233,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00032" summary="28 July 2024">
-      <option name="closed" value="true" />
-      <created>1722189102421</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1722189102421</updated>
     </task>
     <task id="LOCAL-00033" summary="28 July 2024">
       <option name="closed" value="true" />
@@ -615,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723976097719</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="17th August 2024">
+      <option name="closed" value="true" />
+      <created>1723979950453</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1723979950453</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

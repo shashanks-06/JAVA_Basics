@@ -1,4 +1,4 @@
-package august.ex_17082024;
+package august.ex_17082024.wrapperClasses;
 
 public class Lab103 {
     // Java like everything should a Class or Object - OOPs

@@ -1,4 +1,6 @@
-package august.ex_17082024;
+package august.ex_17082024.anonymousClasses;
+
+// ANONYMOUS class
 
 // NOT USED IN API OR WEB AUTOMATION
 // RARELY !!!

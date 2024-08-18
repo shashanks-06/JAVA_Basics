@@ -1,4 +1,4 @@
-package august.ex_17082024;
+package august.ex_17082024.iibAndSib;
 
 public class Lab107 {
     public static void main(String[] args) {

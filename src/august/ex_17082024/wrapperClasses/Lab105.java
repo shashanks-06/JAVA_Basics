@@ -1,6 +1,4 @@
-package august.ex_17082024;
-
-import java.awt.geom.Area;
+package august.ex_17082024.wrapperClasses;
 
 public class Lab105 {
     public static void main(String[] args) {
