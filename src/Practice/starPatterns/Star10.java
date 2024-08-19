@@ -1,4 +1,4 @@
-package Practice;
+package Practice.starPatterns;
 
 public class Star10 {
     public static  void Star(int n){
