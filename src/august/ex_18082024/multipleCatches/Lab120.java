@@ -1,4 +1,6 @@
-package august.ex_18082024.exceptionsMore;
+package august.ex_18082024.multipleCatches;
+
+// Multiple Catches
 
 import java.io.File;
 import java.io.FileNotFoundException;

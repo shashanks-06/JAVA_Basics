@@ -1,4 +1,4 @@
-package august.ex_18082024.exceptionsMore;
+package august.ex_18082024.exceptionsPassing;
 /*      EXCEPTION PASSING        */
 
 /*
@@ -41,7 +41,7 @@ public class Lab119 {
 /*
  EXCEPTION PASSING
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 2
-at august.ex_18082024.exceptionsMore.Lab119.extracted1(Lab119.java:14)
-at august.ex_18082024.exceptionsMore.Lab119.extracted(Lab119.java:9)
-at august.ex_18082024.exceptionsMore.Lab119.main(Lab119.java:5)
+at august.ex_18082024.exceptionsPassing.Lab119.extracted1(Lab119.java:14)
+at august.ex_18082024.exceptionsPassing.Lab119.extracted(Lab119.java:9)
+at august.ex_18082024.exceptionsPassing.Lab119.main(Lab119.java:5)
 */
