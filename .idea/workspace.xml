@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="17th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_17082024/exceptions/Lab118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_18082024/exceptionsMore/Lab119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_18082024/exceptionsMore/Lab120.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +112,7 @@
     "Application.Lab112.executor": "Run",
     "Application.Lab113.executor": "Run",
     "Application.Lab116.executor": "Run",
+    "Application.Lab119.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
@@ -146,33 +142,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab116">
-    <configuration name="Lab109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.nestedClasses.Lab109" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_17082024.wrapperClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_17082024.enums.Lab111" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_17082024.enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab120">
     <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="august.ex_17082024.exceptions.Lab112" />
       <module name="JAVA_Basics" />
@@ -213,20 +183,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.exceptionsMore.Lab119" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_18082024.exceptionsMore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.exceptionsMore.Lab120" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_18082024.exceptionsMore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Lab119" />
+      <item itemvalue="Application.Lab120" />
       <item itemvalue="Application.Lab113" />
       <item itemvalue="Application.Lab116" />
-      <item itemvalue="Application.Lab109" />
-      <item itemvalue="Application.Lab111" />
       <item itemvalue="Application.Lab112" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab120" />
+        <item itemvalue="Application.Lab119" />
         <item itemvalue="Application.Lab116" />
         <item itemvalue="Application.Lab113" />
         <item itemvalue="Application.Lab112" />
-        <item itemvalue="Application.Lab111" />
-        <item itemvalue="Application.Lab109" />
       </list>
     </recent_temporary>
   </component>
@@ -238,14 +234,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00034" summary="27 July 2024">
-      <option name="closed" value="true" />
-      <created>1722232526455</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1722232526455</updated>
     </task>
     <task id="LOCAL-00035" summary="28 July 2024">
       <option name="closed" value="true" />
@@ -631,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723982178684</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="17th August 2024">
+      <option name="closed" value="true" />
+      <created>1724003824596</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1724003824596</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
