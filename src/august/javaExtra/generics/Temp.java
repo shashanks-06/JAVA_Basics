@@ -1,4 +1,4 @@
-package august.generics;
+package august.javaExtra.generics;
 
 public class Temp {
     public static <T> void temp(T a){

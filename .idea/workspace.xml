@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="18th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/generics/MaxThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/generics/TClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/generics/Temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Generic Methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,14 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00040" summary="4 August 2024">
-      <option name="closed" value="true" />
-      <created>1722849592796</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1722849592796</updated>
     </task>
     <task id="LOCAL-00041" summary="4 August 2024">
       <option name="closed" value="true" />
@@ -641,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724089533981</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Generic Methods">
+      <option name="closed" value="true" />
+      <created>1724137343073</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1724137343089</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -657,7 +652,8 @@
     <MESSAGE value="17th August 2024" />
     <MESSAGE value="modified" />
     <MESSAGE value="18th August 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th August 2024" />
+    <MESSAGE value="Generic Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
