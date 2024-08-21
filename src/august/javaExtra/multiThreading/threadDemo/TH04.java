@@ -32,3 +32,11 @@ class Worker1TH04 implements Runnable{
         }
     }
 }
+
+// Why we are calling the start() method but overriding the run() method?
+// => If run() method is called then it will behave like a normal method and we would not be able to take advantage of
+//    multithreading.
+//    When a start() method is called through run() method then a separate thread is being allocated to execution of
+//    run() method.
+//    So, if more than one thread calls the start() method that means their run() method is being executed by separate
+//    threads (these threads run simultaneously)
