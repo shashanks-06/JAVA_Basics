@@ -12,10 +12,15 @@ public class ATBPerson {
     // Parameterized Constructor
     ATBPerson(String nameGiven){
         this.name = nameGiven;
+//        System.out.println("Object is created");
+//        System.out.println(this.name);
     }
     ATBPerson(String nameGiven, long phoneGiven){
         this.name = nameGiven;
         this.phone = phoneGiven;
+
+//        System.out.println("Object is created");
+//        System.out.println(this.name + " " + this.phone);
     }
 
 }

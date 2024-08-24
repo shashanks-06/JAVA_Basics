@@ -8,7 +8,7 @@ public class BankAccount {
     // DC
     BankAccount(){
         bankName = "SBI";
-        balance = 0;
+        balance = 99;
         bankCode = "SBI001";
     }
 

@@ -21,5 +21,9 @@ public class Lab077 {
         Person p1 = new Person();       // ->  Hi, I will be called when Object is Created
 //              |          |
 //             Ref       Default Constructor
+
+        p1.name = "Shashank Surjekar";
+
+        p1.talk();
     }
 }

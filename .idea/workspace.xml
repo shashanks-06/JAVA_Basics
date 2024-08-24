@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Multi Threading">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/javaExtra/multiThreading/threadDemo/TH04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/javaExtra/multiThreading/threadDemo/TH04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/ATBPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab077.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab077.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab080.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab080.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab082.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab082.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab083.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,13 +164,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TH04">
-    <configuration name="TClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.javaExtra.generics.TClass" />
+  <component name="RunManager" selected="Application.Lab083">
+    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab077" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.javaExtra.generics.*" />
+          <option name="PATTERN" value="august.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.javaExtra.multiThreading.threadDemo.TH01" />
+    <configuration name="Lab079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab079" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.javaExtra.multiThreading.threadDemo.*" />
+          <option name="PATTERN" value="august.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.javaExtra.multiThreading.threadDemo.TH02" />
+    <configuration name="Lab081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab081" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.javaExtra.multiThreading.threadDemo.*" />
+          <option name="PATTERN" value="august.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.javaExtra.multiThreading.threadDemo.TH03" />
+    <configuration name="Lab082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab082" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.javaExtra.multiThreading.threadDemo.*" />
+          <option name="PATTERN" value="august.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.javaExtra.multiThreading.threadDemo.TH04" />
+    <configuration name="Lab083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab083" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.javaExtra.multiThreading.threadDemo.*" />
+          <option name="PATTERN" value="august.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,19 +231,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TH02" />
-      <item itemvalue="Application.TH03" />
-      <item itemvalue="Application.TH04" />
-      <item itemvalue="Application.TH01" />
-      <item itemvalue="Application.TClass" />
+      <item itemvalue="Application.Lab077" />
+      <item itemvalue="Application.Lab079" />
+      <item itemvalue="Application.Lab081" />
+      <item itemvalue="Application.Lab082" />
+      <item itemvalue="Application.Lab083" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TH04" />
-        <item itemvalue="Application.TH03" />
-        <item itemvalue="Application.TH02" />
-        <item itemvalue="Application.TH01" />
-        <item itemvalue="Application.TClass" />
+        <item itemvalue="Application.Lab083" />
+        <item itemvalue="Application.Lab082" />
+        <item itemvalue="Application.Lab081" />
+        <item itemvalue="Application.Lab079" />
+        <item itemvalue="Application.Lab077" />
       </list>
     </recent_temporary>
   </component>
@@ -250,14 +255,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00045" summary="4 August 2024">
-      <option name="closed" value="true" />
-      <created>1722921251369</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1722921251369</updated>
     </task>
     <task id="LOCAL-00046" summary="4 August 2024">
       <option name="closed" value="true" />
@@ -643,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724171444942</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Multi Threading">
+      <option name="closed" value="true" />
+      <created>1724222117147</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1724222117147</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

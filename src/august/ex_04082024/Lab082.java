@@ -13,7 +13,7 @@ public class Lab082 {
         System.out.println(p2.name);        // Tushar
         System.out.println(p2.phone);       // 0
 
-        ATBPerson p3 = new ATBPerson("Rohan", 9876543210l);
+        ATBPerson p3 = new ATBPerson("Rohan", 9876543210L);
         System.out.println(p3.name);                //Rohan
         System.out.println(p3.phone);               //9876543210
 
