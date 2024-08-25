@@ -1,4 +1,5 @@
 package august.ex_24082024;
+// Sorting using Comparable
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -51,7 +52,6 @@ class Student implements Comparable<Student>{
     }
 
     // Important -> Otherwise it will print the Object's addresses
-
     @Override
     public String toString() {
         return "Student -> {" +
@@ -60,13 +60,13 @@ class Student implements Comparable<Student>{
                 "} ";
     }
 
-
-//    @Override
-//    public int compareTo(Student o) {
-//        return Integer.compare(this.id, o.id);  // Sorting based on "id"
-//    }
+// For sorting
     @Override
-    public int compareTo(Student o){
-        return CharSequence.compare(this.name, o.name);  // Sorting based on "name"
+    public int compareTo(Student another) {
+        return Integer.compare(this.id, another.id);  // Sorting based on "id"
     }
+//    @Override
+//    public int compareTo(Student another){
+//        return CharSequence.compare(this.name, another.name);  // Sorting based on "name"
+//    }
 }

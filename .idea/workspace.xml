@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="18th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/Lab135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/Lab136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/Lab137.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="24th August 2024">
+      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/Lab138.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_24082024/Lab137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_24082024/Lab137.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +126,10 @@
     "Application.Lab134.executor": "Run",
     "Application.Lab135.executor": "Run",
     "Application.Lab136.executor": "Run",
+    "Application.Lab137 (1).executor": "Run",
     "Application.Lab137.executor": "Run",
+    "Application.Lab138 (1).executor": "Run",
+    "Application.Lab138.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MaxThree.executor": "Run",
@@ -164,48 +166,22 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab137">
-    <configuration name="Lab131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab131" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab133" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab135" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_24082024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab138 (1)">
     <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab136" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_24082024.Student" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab137 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab137" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -222,6 +198,32 @@
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
+          <option name="PATTERN" value="august.ex_24082024.Student" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab138 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab138" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_24082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab138" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
           <option name="PATTERN" value="august.ex_24082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -231,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab135" />
       <item itemvalue="Application.Lab136" />
       <item itemvalue="Application.Lab137" />
-      <item itemvalue="Application.Lab131" />
-      <item itemvalue="Application.Lab133" />
+      <item itemvalue="Application.Lab137 (1)" />
+      <item itemvalue="Application.Lab138" />
+      <item itemvalue="Application.Lab138 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab138 (1)" />
+        <item itemvalue="Application.Lab138" />
+        <item itemvalue="Application.Lab137 (1)" />
         <item itemvalue="Application.Lab137" />
         <item itemvalue="Application.Lab136" />
-        <item itemvalue="Application.Lab135" />
-        <item itemvalue="Application.Lab133" />
-        <item itemvalue="Application.Lab131" />
       </list>
     </recent_temporary>
   </component>
@@ -255,14 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00049" summary="4 August 2024">
-      <option name="closed" value="true" />
-      <created>1722925086393</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1722925086393</updated>
     </task>
     <task id="LOCAL-00050" summary="4 August 2024">
       <option name="closed" value="true" />
@@ -648,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724594539655</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="24th August 2024">
+      <option name="closed" value="true" />
+      <created>1724598372331</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1724598372331</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -667,7 +669,8 @@
     <MESSAGE value="Multi Threading" />
     <MESSAGE value="Revise" />
     <MESSAGE value="18th August 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th August 2024" />
+    <MESSAGE value="24th August 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="24th August 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
