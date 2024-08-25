@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Multi Threading">
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Revise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/ATBPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab077.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab077.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab080.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab080.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab082.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab082.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_04082024/Lab083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_04082024/Lab083.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_18082024/collectionFramework/Lab129.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_18082024/collectionFramework/Lab129.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_18082024/collectionFramework/Lab131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_18082024/collectionFramework/Lab131.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,13 +160,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab083">
-    <configuration name="Lab077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab077" />
+  <component name="RunManager" selected="Application.Lab134">
+    <configuration name="Lab129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab129" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_04082024.*" />
+          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab079" />
+    <configuration name="Lab130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab130" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_04082024.*" />
+          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab081" />
+    <configuration name="Lab131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab131" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_04082024.*" />
+          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab082" />
+    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab132" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_04082024.*" />
+          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_04082024.Lab083" />
+    <configuration name="Lab134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_18082024.collectionFramework.Lab134" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_04082024.*" />
+          <option name="PATTERN" value="august.ex_18082024.collectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,19 +227,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab077" />
-      <item itemvalue="Application.Lab079" />
-      <item itemvalue="Application.Lab081" />
-      <item itemvalue="Application.Lab082" />
-      <item itemvalue="Application.Lab083" />
+      <item itemvalue="Application.Lab129" />
+      <item itemvalue="Application.Lab130" />
+      <item itemvalue="Application.Lab131" />
+      <item itemvalue="Application.Lab132" />
+      <item itemvalue="Application.Lab134" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab083" />
-        <item itemvalue="Application.Lab082" />
-        <item itemvalue="Application.Lab081" />
-        <item itemvalue="Application.Lab079" />
-        <item itemvalue="Application.Lab077" />
+        <item itemvalue="Application.Lab134" />
+        <item itemvalue="Application.Lab132" />
+        <item itemvalue="Application.Lab131" />
+        <item itemvalue="Application.Lab130" />
+        <item itemvalue="Application.Lab129" />
       </list>
     </recent_temporary>
   </component>
@@ -255,14 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00046" summary="4 August 2024">
-      <option name="closed" value="true" />
-      <created>1722923051985</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1722923051985</updated>
     </task>
     <task id="LOCAL-00047" summary="4 August 2024">
       <option name="closed" value="true" />
@@ -648,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724222117147</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Revise">
+      <option name="closed" value="true" />
+      <created>1724507248032</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1724507248032</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -666,7 +662,8 @@
     <MESSAGE value="18th August 2024" />
     <MESSAGE value="Generic Methods" />
     <MESSAGE value="Multi Threading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multi Threading" />
+    <MESSAGE value="Revise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

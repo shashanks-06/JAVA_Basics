@@ -35,7 +35,7 @@ public class Lab129 {
         System.out.println(myList3.contains("Atharv"));     // true
         System.out.println(myList3.contains("Arjun"));      // false
         String s1 = (String) myList3.get(1);
-        System.out.println(s1);
+        System.out.println(s1);     // Tushar
 
 
     }

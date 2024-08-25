@@ -39,17 +39,17 @@ public class Lab131 {
         mylist.add(true);
         System.out.println(mylist);
 
-        System.out.println("-------------------------");
+        System.out.println("-----------*-------------");
 
         for (int i = 0; i < mylist.size(); i++) {
             System.out.println(mylist.get(i));
 
             System.out.println("-------------------------");
+        }
 
-            // Enhanced For loop (forEach)
-            for(Object o : mylist){     // We have different dataTypes and in myList they stored as an Object, That's why used
-                System.out.println(o);
-            }
+        // Enhanced For loop (forEach)
+        for(Object o : mylist){     // We have different dataTypes and in myList they stored as an "Object", That's why used
+            System.out.println(o);
         }
     }
 }
