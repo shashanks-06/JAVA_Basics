@@ -1,55 +1,26 @@
 package august.ex_18082024.collectionFramework;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class Lab131 {
     public static void main(String[] args) {
-        List mylist = new ArrayList();
-//        ArrayList myList2 = new ArrayList();
-        mylist.add("Shashank");
-        mylist.add("Rohan");
-        mylist.add("Arjun");
-        mylist.add("Tushar");
-        mylist.add("Shashank"); // Duplicate
-        mylist.add("Shashank");
 
-        // add, remove, clear, contains, indexOf, isEmpty, size, get
-        // addAll, removeAll, retainAll, containsAll
+        List marks = new ArrayList();
+        marks.add(91);
+        marks.add(95);
+        marks.add(56);
+        marks.add(89);
+        System.out.println(marks);
 
-        System.out.println(mylist);
+        Collections.sort(marks);
 
-        System.out.println(mylist.size());
-        mylist.remove("Shashank");     // Removes the first occurrence of the specified element from this list
-        System.out.println(mylist);
+        System.out.println(marks);
 
-        mylist.clear();
-        System.out.println(mylist);
-        System.out.println(mylist.isEmpty());
+        Collections.sort(marks, Comparator.reverseOrder());
+        System.out.println(marks);
 
-        mylist.add("Shashank");
-        mylist.add("Rohan");
-        mylist.add("Arjun");
-        mylist.add("Tushar");
-        mylist.add("Shashank"); // Duplicate
-
-        mylist.set(1,"Manya");
-
-        mylist.add(123);
-        mylist.add(true);
-        System.out.println(mylist);
-
-        System.out.println("-----------*-------------");
-
-        for (int i = 0; i < mylist.size(); i++) {
-            System.out.println(mylist.get(i));
-
-            System.out.println("-------------------------");
-        }
-
-        // Enhanced For loop (forEach)
-        for(Object o : mylist){     // We have different dataTypes and in myList they stored as an "Object", That's why used
-            System.out.println(o);
-        }
     }
 }

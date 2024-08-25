@@ -1,30 +1,40 @@
 package august.ex_18082024.collectionFramework;
 
+// Collection Framework -> List -> ArrayList
+
+import java.util.ArrayList;
+
 public class Lab128 {
-    // Collection Framework
+    public static void main(String[] args) {
+        // Collections Framework
+        // Collection - Interface
+        // Collection(I) -> List (I)
+        // List (I) -> ArrayList, LinkedList, Vector, Stack
 
-    // Size -> Fixed Size Problem in array.
-    //         // Can I increase the size of the array?
-    // arr2.sort()
-    // find something the array?
-    // There are not in built functions available in the arrays
-    //  sorting, updating, delete, increasing size, decrease size.
-    // appending, finding ...
-    // array can store one type of data type
+        // Shopping List, Marks List, Collection of items, AToDo List, Student List.
+
+        // we can't create the objects of the Interfaces
+
+//        Collection myList1 = new ArrayList();       //  Dynamic Dispatch
+//        List myList2 = new ArrayList();             //  Dynamic Dispatch
+
+        ArrayList myList3 = new ArrayList();
+
+        myList3.add("Shashank");
+        myList3.add("Tushar");
+        myList3.add("Ayush");
+        myList3.add("Rohan");
+        myList3.add("Atharv");
+        myList3.add(2023);
+        myList3.add(true);      // Can add heterogeneous data
+
+        System.out.println(myList3);       // [Shashank, Tushar, Ayush, Rohan, Atharv]
+        System.out.println(myList3.size());     // 5
+        System.out.println(myList3.contains("Atharv"));     // true
+        System.out.println(myList3.contains("Arjun"));      // false
+        String s1 = (String) myList3.get(1);
+        System.out.println(s1);     // Tushar
 
 
-    // ArrayList -> this has solved all the problem
-
-
-    // JDK 1.2 - 1997
-    // Legacy Classes
-    /*    Vector
-          Stack
-          Properties
-          Hash table
-          Dictionary
-    */
-
-
-    // JDK 22 - Advance Collection Class that we can use.
+    }
 }

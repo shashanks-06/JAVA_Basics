@@ -1,6 +1,6 @@
 package august.ex_18082024.throW;
 
-public class Lab127 {
+public class Lab126 {
     public static void main(String[] args) {
         String s1 = "Shashank";     // same for equalsIgnoreCase --> shashank
         String s2 = "shashank";     // same for equalsIgnoreCase --> Shashank
