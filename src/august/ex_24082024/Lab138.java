@@ -23,7 +23,7 @@ public class Lab138 {
         System.out.println(arrayList);
         System.out.println("---------------------------------------------------------------------------------------------------------------------------------------------------\n");
 
-//        Collections.sort(arrayList); // --> it can't sort as arrayList haven't scored the elements in natural way
+//        Collections.sort(arrayList); // --> it can't sort bcoz arrayList haven't stored the elements in natural way
 //        System.out.println(arrayList);  // have to implement Comparable Interface with overridden compareTo Method
 
         Collections.sort(arrayList, new SortById());

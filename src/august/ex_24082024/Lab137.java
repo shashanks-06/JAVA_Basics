@@ -60,7 +60,7 @@ class Student implements Comparable<Student>{
                 "} ";
     }
 
-// For sorting
+// For sorting -> Only either one can be exist in same program
     @Override
     public int compareTo(Student another) {
         return Integer.compare(this.id, another.id);  // Sorting based on "id"
