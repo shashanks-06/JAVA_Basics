@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="24th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/linkedList/Lab139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/set/Lab140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/set/Lab141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/queue/Lab142.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_24082024/Lab135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_24082024/linkedList/Lab135.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_24082024/Lab136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_24082024/linkedList/Lab136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_24082024/Lab137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_24082024/linkedList/Lab137.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/august/ex_24082024/Lab138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_24082024/linkedList/Lab138.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +131,7 @@
     "Application.Lab138.executor": "Run",
     "Application.Lab139.executor": "Run",
     "Application.Lab141.executor": "Run",
+    "Application.Lab142.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MaxThree.executor": "Run",
@@ -173,33 +168,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab141">
-    <configuration name="Lab137 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab137" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_24082024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.linkedList.Lab137" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_24082024.linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab142">
     <configuration name="Lab138 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="august.ex_24082024.Lab138" />
       <module name="JAVA_Basics" />
@@ -265,20 +234,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.queue.Lab142" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="august.ex_24082024.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Lab142" />
       <item itemvalue="Application.Lab139" />
       <item itemvalue="Application.Lab141" />
-      <item itemvalue="Application.Lab137 (1)" />
       <item itemvalue="Application.Lab138" />
       <item itemvalue="Application.Lab138 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab142" />
         <item itemvalue="Application.Lab141" />
         <item itemvalue="Application.Lab139" />
         <item itemvalue="Application.Lab138 (1)" />
         <item itemvalue="Application.Lab138" />
-        <item itemvalue="Application.Lab137 (1)" />
       </list>
     </recent_temporary>
   </component>
