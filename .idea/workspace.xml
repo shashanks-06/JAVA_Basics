@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="24th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/map/Lab143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/map/Lab144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/map/Lab145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_24082024/generics/Lab145.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,25 +172,12 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Lab145">
-    <configuration name="Lab138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.linkedList.Lab138" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="august.ex_24082024.linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lab141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.set.Lab141" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.queue.Lab141" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_24082024.set.*" />
+          <option name="PATTERN" value="august.ex_24082024.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +186,11 @@
       </method>
     </configuration>
     <configuration name="Lab142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.queue.Lab142" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.map.Lab142" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_24082024.queue.*" />
+          <option name="PATTERN" value="august.ex_24082024.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +225,11 @@
       </method>
     </configuration>
     <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.map.Lab145" />
+      <option name="MAIN_CLASS_NAME" value="august.ex_24082024.generics.Lab145" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="august.ex_24082024.map.*" />
+          <option name="PATTERN" value="august.ex_24082024.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +238,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab138" />
+      <item itemvalue="Application.Lab145" />
+      <item itemvalue="Application.Lab141" />
       <item itemvalue="Application.Lab142" />
       <item itemvalue="Application.Lab143" />
       <item itemvalue="Application.Lab144" />
-      <item itemvalue="Application.Lab145" />
-      <item itemvalue="Application.Lab141" />
     </list>
     <recent_temporary>
       <list>
@@ -278,22 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00053" summary="2D Array with forEach">
-      <option name="closed" value="true" />
-      <created>1722960070001</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1722960070001</updated>
-    </task>
-    <task id="LOCAL-00054" summary="2D Array with forEach">
-      <option name="closed" value="true" />
-      <created>1723215161200</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1723215161200</updated>
     </task>
     <task id="LOCAL-00055" summary="2D Array with forEach">
       <option name="closed" value="true" />
@@ -671,7 +639,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724676452681</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="24th August 2024">
+      <option name="closed" value="true" />
+      <created>1724680244905</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1724680244905</updated>
+    </task>
+    <task id="LOCAL-00103" summary="24th August 2024">
+      <option name="closed" value="true" />
+      <created>1724680513922</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1724680513922</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
