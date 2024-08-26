@@ -2,7 +2,7 @@ package august.ex_24082024.queue;
 
 import java.util.PriorityQueue;
 
-public class Lab142 {
+public class Lab141 {
     public static void main(String[] args) {
         //  QUEUE ->  Used less than 1%
 
