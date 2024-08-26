@@ -1,4 +1,4 @@
-package august.ex_24082024;
+package august.ex_24082024.linkedList;
 
 import java.util.LinkedList;
 

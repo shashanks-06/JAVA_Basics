@@ -1,4 +1,4 @@
-package august.ex_24082024;
+package august.ex_24082024.linkedList;
 // Sorting using Comparable
 
 import java.util.ArrayList;
