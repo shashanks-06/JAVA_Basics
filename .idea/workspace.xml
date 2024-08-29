@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="24th August 2024">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe1_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe2_Palindrome_String_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe3_Palindrome_String_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe4_Palindrome_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe5_StarPyramid.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe6_CountVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +59,7 @@
     "Application.Exe2_Palindrome_2.executor": "Run",
     "Application.Exe4_Palindrome_Number.executor": "Run",
     "Application.Exe5_StarPyramid.executor": "Run",
+    "Application.Exe6_CountVowels.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.FizzBuzz_20July24.executor": "Run",
     "Application.JrCop.executor": "Run",
@@ -180,20 +177,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exe5_StarPyramid">
-    <configuration name="Exe1_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe1_Table" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.Java250LabExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exe6_CountVowels">
     <configuration name="Exe2_Palindrome_String_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe2_Palindrome_String_1" />
       <module name="JAVA_Basics" />
@@ -246,8 +230,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exe6_CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe6_CountVowels" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.Java250LabExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Exe1_Table" />
+      <item itemvalue="Application.Exe6_CountVowels" />
       <item itemvalue="Application.Exe2_Palindrome_String_1" />
       <item itemvalue="Application.Exe3_Palindrome_String_2" />
       <item itemvalue="Application.Exe4_Palindrome_Number" />
@@ -255,11 +252,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exe6_CountVowels" />
         <item itemvalue="Application.Exe5_StarPyramid" />
         <item itemvalue="Application.Exe4_Palindrome_Number" />
         <item itemvalue="Application.Exe3_Palindrome_String_2" />
         <item itemvalue="Application.Exe2_Palindrome_String_1" />
-        <item itemvalue="Application.Exe1_Table" />
       </list>
     </recent_temporary>
   </component>
@@ -271,14 +268,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Star Patterns">
-      <option name="closed" value="true" />
-      <created>1723216274340</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1723216274340</updated>
     </task>
     <task id="LOCAL-00057" summary="Star Patterns">
       <option name="closed" value="true" />
@@ -664,8 +653,27 @@
       <option name="project" value="LOCAL" />
       <updated>1724682407875</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1724845518551</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1724845518551</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20 July 2024" />
@@ -684,7 +692,8 @@
     <MESSAGE value="Revise" />
     <MESSAGE value="18th August 2024" />
     <MESSAGE value="24th August 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="24th August 2024" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
