@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Practice">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe6_CountVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe6_CountVowels_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,8 @@
     "Application.Exe4_Palindrome_Number.executor": "Run",
     "Application.Exe5_StarPyramid.executor": "Run",
     "Application.Exe6_CountVowels.executor": "Run",
+    "Application.Exe6_CountVowels_1.executor": "Run",
+    "Application.Exe6_CountVowels_2.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.FizzBuzz_20July24.executor": "Run",
     "Application.JrCop.executor": "Run",
@@ -177,20 +179,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exe6_CountVowels">
-    <configuration name="Exe2_Palindrome_String_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe2_Palindrome_String_1" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.Java250LabExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exe6_CountVowels_2">
     <configuration name="Exe3_Palindrome_String_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe3_Palindrome_String_2" />
       <module name="JAVA_Basics" />
@@ -230,8 +219,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe6_CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe6_CountVowels" />
+    <configuration name="Exe6_CountVowels_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe6_CountVowels_1" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.Java250LabExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exe6_CountVowels_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe6_CountVowels_2" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -244,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exe6_CountVowels" />
-      <item itemvalue="Application.Exe2_Palindrome_String_1" />
+      <item itemvalue="Application.Exe6_CountVowels_1" />
+      <item itemvalue="Application.Exe6_CountVowels_2" />
       <item itemvalue="Application.Exe3_Palindrome_String_2" />
       <item itemvalue="Application.Exe4_Palindrome_Number" />
       <item itemvalue="Application.Exe5_StarPyramid" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exe6_CountVowels" />
+        <item itemvalue="Application.Exe6_CountVowels_2" />
+        <item itemvalue="Application.Exe6_CountVowels_1" />
         <item itemvalue="Application.Exe5_StarPyramid" />
         <item itemvalue="Application.Exe4_Palindrome_Number" />
         <item itemvalue="Application.Exe3_Palindrome_String_2" />
-        <item itemvalue="Application.Exe2_Palindrome_String_1" />
       </list>
     </recent_temporary>
   </component>
@@ -268,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Star Patterns">
-      <option name="closed" value="true" />
-      <created>1723219355077</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1723219355077</updated>
     </task>
     <task id="LOCAL-00058" summary="Star Patterns">
       <option name="closed" value="true" />
@@ -661,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724845518551</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1724930468530</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1724930468531</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
