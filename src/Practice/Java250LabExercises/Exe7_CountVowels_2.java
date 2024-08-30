@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Exe6_CountVowels_2 {
+public class Exe7_CountVowels_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your String: ");
