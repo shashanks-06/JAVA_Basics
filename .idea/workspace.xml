@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Practice">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/polymorphism/methodOverriding/Overriding_VS_Static" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/Encapsulation_VS_Abstraction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/august/ex_10082024/polymorphism/Overriding_VS_Static" beforeDir="false" afterPath="$PROJECT_DIR$/src/august/ex_10082024/Overriding_VS_Static" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +181,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024" />
+      <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Exe8_PrimeNumCheck">
     <configuration name="Exe4_Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Java250LabExercises.Exe4_Palindrome_Number" />
@@ -271,22 +278,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00060" summary="10th August 2024">
-      <option name="closed" value="true" />
-      <created>1723365001438</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1723365001438</updated>
-    </task>
-    <task id="LOCAL-00061" summary="10th August 2024">
-      <option name="closed" value="true" />
-      <created>1723381822832</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1723381822832</updated>
     </task>
     <task id="LOCAL-00062" summary="10th August 2024">
       <option name="closed" value="true" />
@@ -664,7 +655,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725017907298</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1725098111322</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1725098111322</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1725098235917</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1725098235917</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

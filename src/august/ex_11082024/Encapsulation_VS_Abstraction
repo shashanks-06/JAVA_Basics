@@ -1,0 +1,15 @@
+Encapsulation
+1. Wrapping up the implementation of data members and methods in class.
+2. Encapsulation uses access modifiers and getter & setter methods to implement.
+3. Encapsulation is the process of CONTAINING the Information.
+4. It is based on the Implementation Level and Internal working
+
+
+Abstraction
+1. Hiding unnecessary details and showing only the valuable information.
+2. It uses abstract classes and interfaces to implement.
+3. Abstraction is the process of GAINING the Information.
+4. It is based on the Design Level and External Outlook
+
+
+https://www.geeksforgeeks.org/difference-between-abstraction-and-encapsulation-in-java-with-examples/#:~:text=Abstraction%20vs%20Encapsulation,from%20outside%20world.
