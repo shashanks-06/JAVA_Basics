@@ -4,7 +4,7 @@ public class Lab117 {
     public static void main(String[] args) {
         final double pi = 3.14;
         int a =0;
-        // Above code will not give any error so it must be outside of  try catch block
+        // Above code will not give any error, so it must be outside of try catch block
 
         try {
             int b = 10/a;

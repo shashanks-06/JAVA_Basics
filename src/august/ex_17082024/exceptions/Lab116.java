@@ -4,7 +4,7 @@ public class Lab116 {
 
     public static void main(String[] args) {
         try {
-            String s1 = "Pramod";
+            String s1 = "Shashank";
             String a1 = args[0];
             int a = 10 / 0;
             s1 = null;
