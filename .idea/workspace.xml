@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Practice">
-      <change afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab1.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="NullPointerException">
+      <change afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +146,7 @@
     "Application.Lab144.executor": "Run",
     "Application.Lab145.executor": "Run",
     "Application.Lab2.executor": "Run",
+    "Application.Lab3.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MaxThree.executor": "Run",
@@ -188,20 +189,7 @@
       <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab1">
-    <configuration name="Exe6_CountVowels_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe6_CountVowels_1" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.Lab_Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab3">
     <configuration name="Exe7_CountVowels_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe7_CountVowels_2" />
       <module name="JAVA_Basics" />
@@ -254,20 +242,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.exceptionHandling.A_TryCatchBlock.Lab3" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.exceptionHandling.A_TryCatchBlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab1" />
       <item itemvalue="Application.Lab2" />
+      <item itemvalue="Application.Lab3" />
       <item itemvalue="Application.Exe8_PrimeNumCheck" />
-      <item itemvalue="Application.Exe6_CountVowels_1" />
       <item itemvalue="Application.Exe7_CountVowels_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab3" />
         <item itemvalue="Application.Lab1" />
         <item itemvalue="Application.Lab2" />
         <item itemvalue="Application.Exe8_PrimeNumCheck" />
         <item itemvalue="Application.Exe7_CountVowels_2" />
-        <item itemvalue="Application.Exe6_CountVowels_1" />
       </list>
     </recent_temporary>
   </component>
@@ -279,22 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00065" summary="10th August 2024">
-      <option name="closed" value="true" />
-      <created>1723388656937</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1723388656937</updated>
-    </task>
-    <task id="LOCAL-00066" summary="10th August 2024">
-      <option name="closed" value="true" />
-      <created>1723391597805</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1723391597805</updated>
     </task>
     <task id="LOCAL-00067" summary="10th August 2024">
       <option name="closed" value="true" />
@@ -672,7 +657,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725297571720</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="ArithmeticException">
+      <option name="closed" value="true" />
+      <created>1725297877094</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1725297877094</updated>
+    </task>
+    <task id="LOCAL-00115" summary="NullPointerException">
+      <option name="closed" value="true" />
+      <created>1725297892633</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1725297892633</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -705,7 +706,9 @@
     <MESSAGE value="24th August 2024" />
     <MESSAGE value="17th July 2024" />
     <MESSAGE value="Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
+    <MESSAGE value="ArithmeticException" />
+    <MESSAGE value="NullPointerException" />
+    <option name="LAST_COMMIT_MESSAGE" value="NullPointerException" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
