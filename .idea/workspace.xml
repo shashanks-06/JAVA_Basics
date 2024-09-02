@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="17th July 2024">
-      <change afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe1_Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe1_Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe2_Palindrome_String_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe2_Palindrome_String_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe3_Palindrome_String_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe3_Palindrome_String_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe4_Palindrome_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe4_Palindrome_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe5_StarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe5_StarPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe6_CountVowels_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe6_CountVowels_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe7_CountVowels_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe7_CountVowels_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Java250LabExercises/Exe8_PrimeNumCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe8_PrimeNumCheck.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/exceptionHandling/A_TryCatchBlock/Lab1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +145,7 @@
     "Application.Lab143.executor": "Run",
     "Application.Lab144.executor": "Run",
     "Application.Lab145.executor": "Run",
+    "Application.Lab2.executor": "Run",
     "Application.LabSingleInhertence.executor": "Run",
     "Application.LeapYear_20July24.executor": "Run",
     "Application.MaxThree.executor": "Run",
@@ -196,19 +189,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Lab1">
-    <configuration name="Exe5_StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe5_StarPyramid" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.Lab_Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exe6_CountVowels_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe6_CountVowels_1" />
       <module name="JAVA_Basics" />
@@ -261,20 +241,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.exceptionHandling.A_TryCatchBlock.Lab2" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.exceptionHandling.A_TryCatchBlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab1" />
+      <item itemvalue="Application.Lab2" />
       <item itemvalue="Application.Exe8_PrimeNumCheck" />
       <item itemvalue="Application.Exe6_CountVowels_1" />
       <item itemvalue="Application.Exe7_CountVowels_2" />
-      <item itemvalue="Application.Exe5_StarPyramid" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lab1" />
+        <item itemvalue="Application.Lab2" />
         <item itemvalue="Application.Exe8_PrimeNumCheck" />
         <item itemvalue="Application.Exe7_CountVowels_2" />
         <item itemvalue="Application.Exe6_CountVowels_1" />
-        <item itemvalue="Application.Exe5_StarPyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -286,14 +279,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00064" summary="10th August 2024">
-      <option name="closed" value="true" />
-      <created>1723387517886</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1723387517886</updated>
     </task>
     <task id="LOCAL-00065" summary="10th August 2024">
       <option name="closed" value="true" />
@@ -679,7 +664,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725175337089</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1725297571720</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1725297571720</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -710,9 +703,9 @@
     <MESSAGE value="Revise" />
     <MESSAGE value="18th August 2024" />
     <MESSAGE value="24th August 2024" />
-    <MESSAGE value="Practice" />
     <MESSAGE value="17th July 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="17th July 2024" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
