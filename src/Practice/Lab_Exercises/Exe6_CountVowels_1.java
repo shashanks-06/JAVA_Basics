@@ -1,4 +1,4 @@
-package Practice.Java250LabExercises;
+package Practice.Lab_Exercises;
 
 import java.util.Arrays;
 import java.util.Scanner;
