@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Throw and Throws Keyword with try catch block">
-      <change afterPath="$PROJECT_DIR$/src/Practice/abstractMethods/Child1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/abstractMethods/Child2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/abstractMethods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/abstractMethods/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Abstraction and Final">
+      <change beforePath="$PROJECT_DIR$/src/Practice/abstractMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/abstractMethods/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,14 +283,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00071" summary="11th August 2024">
-      <option name="closed" value="true" />
-      <created>1723482733042</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1723482733042</updated>
     </task>
     <task id="LOCAL-00072" summary="11th August 2024">
       <option name="closed" value="true" />
@@ -680,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725299550977</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Abstraction and Final">
+      <option name="closed" value="true" />
+      <created>1725378999884</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1725378999884</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -719,7 +715,8 @@
     <MESSAGE value="ArrayIndexOutOfBoundsException" />
     <MESSAGE value="throw Keyword with try catch block" />
     <MESSAGE value="Throw and Throws Keyword with try catch block" />
-    <option name="LAST_COMMIT_MESSAGE" value="Throw and Throws Keyword with try catch block" />
+    <MESSAGE value="Abstraction and Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction and Final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -19,6 +19,6 @@ public class Main {
 
         System.out.println("--------------------------------------");
 
-        Parent.staticDisplay();
+        Parent.staticDisplay();     // To call Static method from Abstract class
     }
 }
