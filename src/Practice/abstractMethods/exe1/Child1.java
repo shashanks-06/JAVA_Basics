@@ -1,4 +1,4 @@
-package Practice.abstractMethods;
+package Practice.abstractMethods.exe1;
 
 public class Child1 extends Parent{
 
