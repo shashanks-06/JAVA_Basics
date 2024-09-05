@@ -6,10 +6,12 @@ public class Lab102 {
         c1.start();
         c1.partOfGear();
         c1.Ignition();
+        System.out.println(c1.a);
     }
 }
 
 interface Eng{
+    int a=0;
     void start();
     default void Ignition(){
         System.out.println("Ignite the Engine");
