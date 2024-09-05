@@ -3,6 +3,7 @@ package august.ex_11082024.ex_Interface.ex3;
 public class Lab102 {
     public static void main(String[] args) {
         Car c1 = new Car();
+        c1.openCar();
         c1.start();
         c1.partOfGear();
         c1.Ignition();
