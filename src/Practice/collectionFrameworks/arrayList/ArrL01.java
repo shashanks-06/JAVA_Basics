@@ -1,6 +1,7 @@
 package Practice.collectionFrameworks.arrayList;
 
 import java.util.ArrayList;
+import java.util.ListIterator;
 
 public class ArrL01 {
     public static void main(String[] args) {
@@ -56,7 +57,11 @@ public class ArrL01 {
         while (itr.hasNext()){
             System.out.print(itr.next()+" ");
         }
-*/
 
+        ListIterator<Object> lItr = arrayList.listIterator();
+        while (lItr.hasNext()){
+            System.out.println(lItr.next());
+        }
+*/
     }
 }
