@@ -13,6 +13,7 @@ public class Lab140 {
         hs.add("Apple");
         hs.add("Orange");
         hs.add("Watermelon");
+        hs.add(534);
         hs.add(null);
         System.out.println(hs);     // [apple, Apple, Watermelon, Orange]
 
@@ -22,6 +23,7 @@ public class Lab140 {
         lhs.add("Watermelon");
         lhs.add("watermelon");
         lhs.add("Watermelon");
+        lhs.add(534);
         lhs.add(null);
         System.out.println(lhs);    // [Apple, Orange, Watermelon, watermelon]
         System.out.println(lhs.isEmpty());
@@ -34,6 +36,7 @@ public class Lab140 {
         ts.add("Orange");
         ts.add("Orange");
         ts.add("Watermelon");
+//        ts.add(534);          -> TreeSet can't store integers
 ////        ts.add(null);  -> # can't add null in TreeSet as it sort the elements, and null can't be sorted
         System.out.println(ts+"\n");     // [Apple, Dapple, Orange, Watermelon]
 
