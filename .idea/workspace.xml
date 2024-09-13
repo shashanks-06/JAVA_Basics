@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="24th July 2024">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe9_RemoveSpecialChar.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Remove Special Char using RegEx">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe10_RemoveExtraWhiteSpaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Application.Array2.executor": "Run",
     "Application.ConstructorStatic.executor": "Run",
     "Application.Exe1.executor": "Run",
+    "Application.Exe10_RemoveExtraWhiteSpaces.executor": "Run",
     "Application.Exe1_Table.executor": "Run",
     "Application.Exe2_Palindrome.executor": "Run",
     "Application.Exe2_Palindrome_2.executor": "Run",
@@ -198,7 +199,7 @@
       <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exe9_RemoveSpecialChar">
+  <component name="RunManager" selected="Application.Exe10_RemoveExtraWhiteSpaces">
     <configuration name="ArrL01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.collectionFrameworks.arrayList.ArrL01" />
       <module name="JAVA_Basics" />
@@ -225,8 +226,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe5_StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe5_StarPyramid" />
+    <configuration name="Exe10_RemoveExtraWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe10_RemoveExtraWhiteSpaces" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -265,19 +266,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Exe10_RemoveExtraWhiteSpaces" />
       <item itemvalue="Application.Exe9_RemoveSpecialChar" />
       <item itemvalue="Application.Lab140" />
       <item itemvalue="Application.Exe1" />
-      <item itemvalue="Application.Exe5_StarPyramid" />
       <item itemvalue="Application.ArrL01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exe10_RemoveExtraWhiteSpaces" />
         <item itemvalue="Application.Exe9_RemoveSpecialChar" />
         <item itemvalue="Application.Lab140" />
         <item itemvalue="Application.ArrL01" />
         <item itemvalue="Application.Exe1" />
-        <item itemvalue="Application.Exe5_StarPyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -289,22 +290,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00082" summary="17th August 2024">
-      <option name="closed" value="true" />
-      <created>1723982178684</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1723982178684</updated>
-    </task>
-    <task id="LOCAL-00083" summary="17th August 2024">
-      <option name="closed" value="true" />
-      <created>1724003824596</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1724003824596</updated>
     </task>
     <task id="LOCAL-00084" summary="18th August 2024">
       <option name="closed" value="true" />
@@ -682,7 +667,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725897936847</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1726223718230</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1726223718230</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Remove Special Char using RegEx">
+      <option name="closed" value="true" />
+      <created>1726223868919</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1726223868919</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -697,7 +698,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 August 2024" />
     <MESSAGE value="2D Array with forEach" />
     <MESSAGE value="Star Patterns" />
     <MESSAGE value="10th August 2024" />
@@ -710,7 +710,6 @@
     <MESSAGE value="18th August 2024" />
     <MESSAGE value="24th August 2024" />
     <MESSAGE value="17th July 2024" />
-    <MESSAGE value="Practice" />
     <MESSAGE value="ArithmeticException" />
     <MESSAGE value="NullPointerException" />
     <MESSAGE value="NumberFormatException" />
@@ -722,7 +721,9 @@
     <MESSAGE value="11th July 2024" />
     <MESSAGE value="Collection - ArrayList" />
     <MESSAGE value="24th July 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="24th July 2024" />
+    <MESSAGE value="Practice" />
+    <MESSAGE value="Remove Special Char using RegEx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Special Char using RegEx" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
