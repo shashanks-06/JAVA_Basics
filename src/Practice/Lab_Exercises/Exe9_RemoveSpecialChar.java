@@ -1,12 +1,14 @@
 package Practice.Lab_Exercises;
 
+import java.util.Scanner;
+
 public class Exe9_RemoveSpecialChar {
     public static void main(String[] args) {
-        System.out.println(removeSpecialChar("Th!$ !$ @ m!x of $pec!@| ch@r@cter$"));
+        String str = "Th!$ !$ @ m!x of $pec!@| ch@r@cter$";
+        System.out.println(removeSpecialChar(str));
     }
 
     public static String removeSpecialChar(String str){
-        String newStr = str.replaceAll("[^a-zA-Z0-9]","");
-        return newStr;
+        return str.replaceAll("[^a-zA-Z0-9]","");
     }
 }
