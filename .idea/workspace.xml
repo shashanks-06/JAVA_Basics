@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Remove Special Char using RegEx">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe10_RemoveExtraWhiteSpaces.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Remove Whitespaces using RegEx">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe11_ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Application.ConstructorStatic.executor": "Run",
     "Application.Exe1.executor": "Run",
     "Application.Exe10_RemoveExtraWhiteSpaces.executor": "Run",
+    "Application.Exe11_ReverseString.executor": "Run",
     "Application.Exe1_Table.executor": "Run",
     "Application.Exe2_Palindrome.executor": "Run",
     "Application.Exe2_Palindrome_2.executor": "Run",
@@ -199,7 +200,7 @@
       <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exe10_RemoveExtraWhiteSpaces">
+  <component name="RunManager" selected="Application.Exe11_ReverseString">
     <configuration name="ArrL01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.collectionFrameworks.arrayList.ArrL01" />
       <module name="JAVA_Basics" />
@@ -213,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe1" />
+    <configuration name="Exe10_RemoveExtraWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe10_RemoveExtraWhiteSpaces" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe10_RemoveExtraWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe10_RemoveExtraWhiteSpaces" />
+    <configuration name="Exe11_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.Exe11_ReverseString" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -266,19 +267,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Exe11_ReverseString" />
+      <item itemvalue="Application.ArrL01" />
       <item itemvalue="Application.Exe10_RemoveExtraWhiteSpaces" />
       <item itemvalue="Application.Exe9_RemoveSpecialChar" />
       <item itemvalue="Application.Lab140" />
-      <item itemvalue="Application.Exe1" />
-      <item itemvalue="Application.ArrL01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exe11_ReverseString" />
         <item itemvalue="Application.Exe10_RemoveExtraWhiteSpaces" />
         <item itemvalue="Application.Exe9_RemoveSpecialChar" />
         <item itemvalue="Application.Lab140" />
         <item itemvalue="Application.ArrL01" />
-        <item itemvalue="Application.Exe1" />
       </list>
     </recent_temporary>
   </component>
@@ -290,14 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00084" summary="18th August 2024">
-      <option name="closed" value="true" />
-      <created>1724052596779</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1724052596779</updated>
     </task>
     <task id="LOCAL-00085" summary="18th August 2024">
       <option name="closed" value="true" />
@@ -683,7 +676,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726223868919</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="Remove Whitespaces using RegEx">
+      <option name="closed" value="true" />
+      <created>1726225090407</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1726225090407</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -698,7 +699,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2D Array with forEach" />
     <MESSAGE value="Star Patterns" />
     <MESSAGE value="10th August 2024" />
     <MESSAGE value="11th August 2024" />
@@ -723,7 +723,8 @@
     <MESSAGE value="24th July 2024" />
     <MESSAGE value="Practice" />
     <MESSAGE value="Remove Special Char using RegEx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Special Char using RegEx" />
+    <MESSAGE value="Remove Whitespaces using RegEx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Whitespaces using RegEx" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
