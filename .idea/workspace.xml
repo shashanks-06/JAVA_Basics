@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Remove Whitespaces using RegEx">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Lab_Exercises/Exe11_ReverseString.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="Reversing words in Sentence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -291,14 +290,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00085" summary="18th August 2024">
-      <option name="closed" value="true" />
-      <created>1724057829642</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1724057829642</updated>
     </task>
     <task id="LOCAL-00086" summary="18th August 2024">
       <option name="closed" value="true" />
@@ -684,7 +675,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726225090407</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="Reversing words in Sentence">
+      <option name="closed" value="true" />
+      <created>1726313650139</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1726313650139</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -699,7 +698,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Star Patterns" />
     <MESSAGE value="10th August 2024" />
     <MESSAGE value="11th August 2024" />
     <MESSAGE value="17th August 2024" />
@@ -724,7 +722,8 @@
     <MESSAGE value="Practice" />
     <MESSAGE value="Remove Special Char using RegEx" />
     <MESSAGE value="Remove Whitespaces using RegEx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Whitespaces using RegEx" />
+    <MESSAGE value="Reversing words in Sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reversing words in Sentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
