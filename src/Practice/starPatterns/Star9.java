@@ -1,6 +1,6 @@
 package Practice.starPatterns;
 
-public class Star10 {
+public class Star9 {
     public static  void Star(int n){
         for (int i = 1; i <= n ; i++) {
             for (int j = 1; j <= i ; j++) {
