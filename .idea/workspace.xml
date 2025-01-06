@@ -197,20 +197,7 @@
       <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Star5">
-    <configuration name="Star1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star1" />
-      <module name="JAVA_Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.starPatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Star6">
     <configuration name="Star2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star2" />
       <module name="JAVA_Basics" />
@@ -263,20 +250,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Star6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star6" />
+      <module name="JAVA_Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.starPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Star1" />
       <item itemvalue="Application.Star2" />
       <item itemvalue="Application.Star3" />
       <item itemvalue="Application.Star4" />
       <item itemvalue="Application.Star5" />
+      <item itemvalue="Application.Star6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star6" />
         <item itemvalue="Application.Star5" />
         <item itemvalue="Application.Star4" />
         <item itemvalue="Application.Star3" />
         <item itemvalue="Application.Star2" />
-        <item itemvalue="Application.Star1" />
       </list>
     </recent_temporary>
   </component>
