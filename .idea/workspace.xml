@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="RHS right angled triangle">
-      <change beforePath="$PROJECT_DIR$/src/Practice/starPatterns/Star6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/starPatterns/Star6.java" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="LHS inverted RightAngled Triangle">
+      <change afterPath="$PROJECT_DIR$/src/Practice/starPatterns/Star12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +168,8 @@
     "Application.Practice.executor": "Run",
     "Application.Star1.executor": "Run",
     "Application.Star10.executor": "Run",
+    "Application.Star11.executor": "Run",
+    "Application.Star12.executor": "Run",
     "Application.Star2.executor": "Run",
     "Application.Star3.executor": "Run",
     "Application.Star4.executor": "Run",
@@ -203,7 +206,7 @@
       <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Star11">
+  <component name="RunManager" selected="Application.Star12">
     <configuration name="Star10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star10" />
       <module name="JAVA_Basics" />
@@ -230,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star4" />
+    <configuration name="Star12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star12" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -272,17 +275,17 @@
     <list>
       <item itemvalue="Application.Star10" />
       <item itemvalue="Application.Star11" />
-      <item itemvalue="Application.Star4" />
+      <item itemvalue="Application.Star12" />
       <item itemvalue="Application.Star5" />
       <item itemvalue="Application.Star6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star12" />
         <item itemvalue="Application.Star11" />
         <item itemvalue="Application.Star6" />
         <item itemvalue="Application.Star10" />
         <item itemvalue="Application.Star5" />
-        <item itemvalue="Application.Star4" />
       </list>
     </recent_temporary>
   </component>
@@ -294,22 +297,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00099" summary="24th August 2024">
-      <option name="closed" value="true" />
-      <created>1724600416080</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1724600416080</updated>
-    </task>
-    <task id="LOCAL-00100" summary="24th August 2024">
-      <option name="closed" value="true" />
-      <created>1724669654636</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1724669654636</updated>
     </task>
     <task id="LOCAL-00101" summary="24th August 2024">
       <option name="closed" value="true" />
@@ -687,7 +674,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736361498687</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="LHS inverted RightAngled Triangle">
+      <option name="closed" value="true" />
+      <created>1736362020178</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1736362020178</updated>
+    </task>
+    <task id="LOCAL-00149" summary="LHS inverted RightAngled Triangle">
+      <option name="closed" value="true" />
+      <created>1736362097808</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1736362097808</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -702,7 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revise" />
     <MESSAGE value="18th August 2024" />
     <MESSAGE value="24th August 2024" />
     <MESSAGE value="17th July 2024" />
@@ -727,7 +729,8 @@
     <MESSAGE value="vowel Counter with Set" />
     <MESSAGE value="diagonal @ matrix in * matrix" />
     <MESSAGE value="RHS right angled triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="RHS right angled triangle" />
+    <MESSAGE value="LHS inverted RightAngled Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="LHS inverted RightAngled Triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
