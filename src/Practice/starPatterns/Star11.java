@@ -15,3 +15,8 @@ public class Star11 {
         left_invertedRightAngledTriangle(5);
     }
 }
+// *  *  *  *  *
+// *  *  *  *
+// *  *  *
+// *  *
+// *
