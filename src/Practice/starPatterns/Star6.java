@@ -16,6 +16,7 @@ public class Star6 {
             }
             System.out.println();
         }
+
     }
 }
 // *  *  *  *  *

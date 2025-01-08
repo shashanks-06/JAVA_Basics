@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="diagonal @ matrix in * matrix">
-      <change afterPath="$PROJECT_DIR$/src/Practice/starPatterns/Star10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="96a693db-1a49-42c1-8fc5-ea138a39eb59" name="Changes" comment="RHS right angled triangle">
+      <change beforePath="$PROJECT_DIR$/src/Practice/starPatterns/Star6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/starPatterns/Star6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +203,7 @@
       <recent name="C:\Users\shash\IdeaProjects\JAVA_Basics\src\august\ex_10082024\polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Star10">
+  <component name="RunManager" selected="Application.Star11">
     <configuration name="Star10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star10" />
       <module name="JAVA_Basics" />
@@ -218,8 +217,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star3" />
+    <configuration name="Star11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star11" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
@@ -257,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Lab_Exercises.practice" />
+    <configuration name="Star6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.starPatterns.Star6" />
       <module name="JAVA_Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.Lab_Exercises.*" />
+          <option name="PATTERN" value="Practice.starPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,18 +271,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Star10" />
-      <item itemvalue="Application.Star3" />
+      <item itemvalue="Application.Star11" />
       <item itemvalue="Application.Star4" />
       <item itemvalue="Application.Star5" />
-      <item itemvalue="Application.practice" />
+      <item itemvalue="Application.Star6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star11" />
+        <item itemvalue="Application.Star6" />
         <item itemvalue="Application.Star10" />
         <item itemvalue="Application.Star5" />
         <item itemvalue="Application.Star4" />
-        <item itemvalue="Application.Star3" />
-        <item itemvalue="Application.practice" />
       </list>
     </recent_temporary>
   </component>
@@ -295,14 +294,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721738085981</updated>
-    </task>
-    <task id="LOCAL-00098" summary="24th August 2024">
-      <option name="closed" value="true" />
-      <created>1724598372331</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1724598372331</updated>
     </task>
     <task id="LOCAL-00099" summary="24th August 2024">
       <option name="closed" value="true" />
@@ -688,7 +679,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736360302571</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="RHS right angled triangle">
+      <option name="closed" value="true" />
+      <created>1736361498687</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1736361498687</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -703,7 +702,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Multi Threading" />
     <MESSAGE value="Revise" />
     <MESSAGE value="18th August 2024" />
     <MESSAGE value="24th August 2024" />
@@ -728,7 +726,8 @@
     <MESSAGE value="Modified" />
     <MESSAGE value="vowel Counter with Set" />
     <MESSAGE value="diagonal @ matrix in * matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="diagonal @ matrix in * matrix" />
+    <MESSAGE value="RHS right angled triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="RHS right angled triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
